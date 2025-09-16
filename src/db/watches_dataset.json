@@ -1,0 +1,1651 @@
+[
+  {
+    "id": 1,
+    "brand": "Casio",
+    "model": "Casio F-91W",
+    "price": 19.99,
+    "strap_material": "resin",
+    "display_type": "digital",
+    "tags": [
+      "iconic",
+      "retro",
+      "lightweight",
+      "affordable",
+      "vintage"
+    ],
+    "images": [
+      "https://via.placeholder.com/800x800.webp?text=Casio+F-91W+Front",
+      "https://via.placeholder.com/800x800.webp?text=Casio+F-91W+Side"
+    ],
+    "quantity": 27
+  },
+  {
+    "id": 2,
+    "brand": "Casio",
+    "model": "Casio G-Shock DW-5600E-1V",
+    "price": 99.99,
+    "strap_material": "resin",
+    "display_type": "digital",
+    "tags": [
+      "shock-resistant",
+      "rugged",
+      "sport",
+      "200m-water-resistant",
+      "durable"
+    ],
+    "images": [
+      "https://via.placeholder.com/800x800.webp?text=Casio+G-Shock+5600+Front",
+      "https://via.placeholder.com/800x800.webp?text=Casio+G-Shock+5600+Side"
+    ],
+    "quantity": 19
+  },
+  {
+    "id": 3,
+    "brand": "Casio",
+    "model": "Casio A158WA-1",
+    "price": 29.99,
+    "strap_material": "steel",
+    "display_type": "digital",
+    "tags": [
+      "retro",
+      "bracelet",
+      "80s-style",
+      "thin",
+      "nostalgic"
+    ],
+    "images": [
+      "https://via.placeholder.com/800x800.webp?text=Casio+A158+Front",
+      "https://via.placeholder.com/800x800.webp?text=Casio+A158+Side"
+    ],
+    "quantity": 22
+  },
+  {
+    "id": 4,
+    "brand": "Casio",
+    "model": "Casio Edifice EFR-S108D-7AVUEF",
+    "price": 129.99,
+    "strap_material": "steel",
+    "display_type": "analog",
+    "tags": [
+      "chronograph",
+      "sporty",
+      "solar-powered",
+      "modern",
+      "100m-water-resistant"
+    ],
+    "images": [
+      "https://via.placeholder.com/800x800.webp?text=Casio+Edifice+Front",
+      "https://via.placeholder.com/800x800.webp?text=Casio+Edifice+Side"
+    ],
+    "quantity": 14
+  },
+  {
+    "id": 5,
+    "brand": "Casio",
+    "model": "Casio Duro Mariner MDV-106",
+    "price": 69.99,
+    "strap_material": "rubber",
+    "display_type": "analog",
+    "tags": [
+      "diver",
+      "200m-water-resistant",
+      "rotating-bezel",
+      "tool-watch",
+      "value"
+    ],
+    "images": [
+      "https://via.placeholder.com/800x800.webp?text=Casio+Duro+Front",
+      "https://via.placeholder.com/800x800.webp?text=Casio+Duro+Side"
+    ],
+    "quantity": 16
+  },
+  {
+    "id": 6,
+    "brand": "Casio",
+    "model": "Casio G-Shock GA-2100-1A1",
+    "price": 119.99,
+    "strap_material": "resin",
+    "display_type": "analog-digital",
+    "tags": [
+      "casioak",
+      "carbon-core",
+      "slim-profile",
+      "modern",
+      "analog-digital"
+    ],
+    "images": [
+      "https://via.placeholder.com/800x800.webp?text=Casio+GA-2100+Front",
+      "https://via.placeholder.com/800x800.webp?text=Casio+GA-2100+Side"
+    ],
+    "quantity": 11
+  },
+  {
+    "id": 7,
+    "brand": "Casio",
+    "model": "Casio Pro Trek PRW-3500T-7",
+    "price": 399.99,
+    "strap_material": "titanium",
+    "display_type": "digital",
+    "tags": [
+      "outdoor",
+      "abc-sensors",
+      "solar-powered",
+      "titanium",
+      "tough-solar"
+    ],
+    "images": [
+      "https://via.placeholder.com/800x800.webp?text=Casio+Pro+Trek+Front",
+      "https://via.placeholder.com/800x800.webp?text=Casio+Pro+Trek+Side"
+    ],
+    "quantity": 8
+  },
+  {
+    "id": 8,
+    "brand": "Casio",
+    "model": "Casio Baby-G BGA-2500-7B",
+    "price": 89.99,
+    "strap_material": "resin",
+    "display_type": "digital",
+    "tags": [
+      "women",
+      "shock-resistant",
+      "colorful",
+      "200m-water-resistant",
+      "youthful"
+    ],
+    "images": [
+      "https://via.placeholder.com/800x800.webp?text=Casio+Baby-G+Front",
+      "https://via.placeholder.com/800x800.webp?text=Casio+Baby-G+Side"
+    ],
+    "quantity": 23
+  },
+  {
+    "id": 9,
+    "brand": "Casio",
+    "model": "Casio Lineage LCW-M170D-1AJF",
+    "price": 249.99,
+    "strap_material": "titanium",
+    "display_type": "analog-digital",
+    "tags": [
+      "solar-powered",
+      "titanium",
+      "radio-controlled",
+      "multiband-6",
+      "tough-movement"
+    ],
+    "images": [
+      "https://via.placeholder.com/800x800.webp?text=Casio+Lineage+Front",
+      "https://via.placeholder.com/800x800.webp?text=Casio+Lineage+Side"
+    ],
+    "quantity": 9
+  },
+  {
+    "id": 10,
+    "brand": "Casio",
+    "model": "Casio G-Shock GMW-B5000D-1",
+    "price": 499.99,
+    "strap_material": "steel",
+    "display_type": "digital",
+    "tags": [
+      "full-metal",
+      "bluetooth",
+      "solar-powered",
+      "premium",
+      "original-design"
+    ],
+    "images": [
+      "https://via.placeholder.com/800x800.webp?text=Casio+Full-Metal+Front",
+      "https://via.placeholder.com/800x800.webp?text=Casio+Full-Metal+Side"
+    ],
+    "quantity": 6
+  },
+  {
+    "id": 11,
+    "brand": "Casio",
+    "model": "Casio MTP-VD01D-2BU",
+    "price": 39.99,
+    "strap_material": "leather",
+    "display_type": "analog",
+    "tags": [
+      "dress",
+      "minimalist",
+      "affordable",
+      "date-display",
+      "classic"
+    ],
+    "images": [
+      "https://via.placeholder.com/800x800.webp?text=Casio+Dress+Front",
+      "https://via.placeholder.com/800x800.webp?text=Casio+Dress+Side"
+    ],
+    "quantity": 31
+  },
+  {
+    "id": 12,
+    "brand": "Casio",
+    "model": "Casio G-Shock Rangeman GW-9400-1",
+    "price": 329.99,
+    "strap_material": "resin",
+    "display_type": "digital",
+    "tags": [
+      "master-of-g",
+      "abc-sensors",
+      "solar-powered",
+      "mud-resistant",
+      "tough"
+    ],
+    "images": [
+      "https://via.placeholder.com/800x800.webp?text=Casio+Rangeman+Front",
+      "https://via.placeholder.com/800x800.webp?text=Casio+Rangeman+Side"
+    ],
+    "quantity": 7
+  },
+  {
+    "id": 13,
+    "brand": "Casio",
+    "model": "Casio AE-1200WHD-1A",
+    "price": 24.99,
+    "strap_material": "resin",
+    "display_type": "digital",
+    "tags": [
+      "world-time",
+      "multi-function",
+      "affordable",
+      "digital",
+      "retro"
+    ],
+    "images": [
+      "https://via.placeholder.com/800x800.webp?text=Casio+World+Time+Front",
+      "https://via.placeholder.com/800x800.webp?text=Casio+World+Time+Side"
+    ],
+    "quantity": 35
+  },
+  {
+    "id": 14,
+    "brand": "Casio",
+    "model": "Casio G-Shock GA-100-1A1",
+    "price": 89.99,
+    "strap_material": "resin",
+    "display_type": "analog-digital",
+    "tags": [
+      "aviator",
+      "large-face",
+      "magnetic-resistant",
+      "bold",
+      "sporty"
+    ],
+    "images": [
+      "https://via.placeholder.com/800x800.webp?text=Casio+GA-100+Front",
+      "https://via.placeholder.com/800x800.webp?text=Casio+GA-100+Side"
+    ],
+    "quantity": 18
+  },
+  {
+    "id": 15,
+    "brand": "Casio",
+    "model": "Casio LTP-V006L-7BU",
+    "price": 45.99,
+    "strap_material": "leather",
+    "display_type": "analog",
+    "tags": [
+      "women",
+      "dress",
+      "elegant",
+      "slim",
+      "fashion"
+    ],
+    "images": [
+      "https://via.placeholder.com/800x800.webp?text=Casio+Women+Dress+Front",
+      "https://via.placeholder.com/800x800.webp?text=Casio+Women+Dress+Side"
+    ],
+    "quantity": 26
+  },
+  {
+    "id": 16,
+    "brand": "Casio",
+    "model": "Casio G-Shock GW-B5600-2",
+    "price": 199.99,
+    "strap_material": "resin",
+    "display_type": "digital",
+    "tags": [
+      "solar-powered",
+      "bluetooth",
+      "multiband-6",
+      "classic-square",
+      "modern"
+    ],
+    "images": [
+      "https://via.placeholder.com/800x800.webp?text=Casio+GW-B5600+Front",
+      "https://via.placeholder.com/800x800.webp?text=Casio+GW-B5600+Side"
+    ],
+    "quantity": 12
+  },
+  {
+    "id": 17,
+    "brand": "Casio",
+    "model": "Casio MQ-24-7B",
+    "price": 16.99,
+    "strap_material": "resin",
+    "display_type": "analog",
+    "tags": [
+      "ultra-thin",
+      "minimalist",
+      "basic",
+      "lightweight",
+      "essential"
+    ],
+    "images": [
+      "https://via.placeholder.com/800x800.webp?text=Casio+MQ-24+Front",
+      "https://via.placeholder.com/800x800.webp?text=Casio+MQ-24+Side"
+    ],
+    "quantity": 42
+  },
+  {
+    "id": 18,
+    "brand": "Casio",
+    "model": "Casio G-Shock GD-350-1B",
+    "price": 129.99,
+    "strap_material": "resin",
+    "display_type": "digital",
+    "tags": [
+      "vibration-alarm",
+      "countdown-timer",
+      "backlight",
+      "sport",
+      "tactical"
+    ],
+    "images": [
+      "https://via.placeholder.com/800x800.webp?text=Casio+GD-350+Front",
+      "https://via.placeholder.com/800x800.webp?text=Casio+GD-350+Side"
+    ],
+    "quantity": 15
+  },
+  {
+    "id": 19,
+    "brand": "Casio",
+    "model": "Casio EFV-110D-1AVUDF",
+    "price": 89.99,
+    "strap_material": "steel",
+    "display_type": "analog",
+    "tags": [
+      "diver-style",
+      "100m-water-resistant",
+      "luminous",
+      "sporty",
+      "affordable"
+    ],
+    "images": [
+      "https://via.placeholder.com/800x800.webp?text=Casio+EFV-110+Front",
+      "https://via.placeholder.com/800x800.webp?text=Casio+EFV-110+Side"
+    ],
+    "quantity": 17
+  },
+  {
+    "id": 20,
+    "brand": "Casio",
+    "model": "Casio G-Shock G-LIDE GLX-5600-7",
+    "price": 149.99,
+    "strap_material": "resin",
+    "display_type": "digital",
+    "tags": [
+      "tide-graph",
+      "moon-data",
+      "sport",
+      "beach",
+      "ocean"
+    ],
+    "images": [
+      "https://via.placeholder.com/800x800.webp?text=Casio+G-LIDE+Front",
+      "https://via.placeholder.com/800x800.webp?text=Casio+G-LIDE+Side"
+    ],
+    "quantity": 10
+  },
+  {
+    "id": 21,
+    "brand": "Seiko",
+    "model": "Seiko 5 Sports SRPD55",
+    "price": 295.0,
+    "strap_material": "steel",
+    "display_type": "analog",
+    "tags": [
+      "automatic",
+      "diver-style",
+      "day-date",
+      "hacking",
+      "iconic"
+    ],
+    "images": [
+      "https://via.placeholder.com/800x800.webp?text=Seiko+5+SRPD55+Front",
+      "https://via.placeholder.com/800x800.webp?text=Seiko+5+SRPD55+Side"
+    ],
+    "quantity": 14
+  },
+  {
+    "id": 22,
+    "brand": "Seiko",
+    "model": "Seiko Prospex Turtle SRPE99",
+    "price": 525.0,
+    "strap_material": "silicone",
+    "display_type": "analog",
+    "tags": [
+      "professional-diver",
+      "automatic",
+      "200m-water-resistant",
+      "luminous",
+      "iso-certified"
+    ],
+    "images": [
+      "https://via.placeholder.com/800x800.webp?text=Seiko+Prospex+Turtle+Front",
+      "https://via.placeholder.com/800x800.webp?text=Seiko+Prospex+Turtle+Side"
+    ],
+    "quantity": 8
+  },
+  {
+    "id": 23,
+    "brand": "Seiko",
+    "model": "Seiko Presage Cocktail Time SRPB41",
+    "price": 425.0,
+    "strap_material": "leather",
+    "display_type": "analog",
+    "tags": [
+      "dress",
+      "automatic",
+      "textured-dial",
+      "exhibition-caseback",
+      "elegant"
+    ],
+    "images": [
+      "https://via.placeholder.com/800x800.webp?text=Seiko+Presage+Cocktail+Time+Front",
+      "https://via.placeholder.com/800x800.webp?text=Seiko+Presage+Cocktail+Time+Side"
+    ],
+    "quantity": 11
+  },
+  {
+    "id": 24,
+    "brand": "Seiko",
+    "model": "Seiko Prospex Samurai SRPB51",
+    "price": 475.0,
+    "strap_material": "steel",
+    "display_type": "analog",
+    "tags": [
+      "diver",
+      "automatic",
+      "angular-design",
+      "200m-water-resistant",
+      "unique"
+    ],
+    "images": [
+      "https://via.placeholder.com/800x800.webp?text=Seiko+Samurai+Front",
+      "https://via.placeholder.com/800x800.webp?text=Seiko+Samurai+Side"
+    ],
+    "quantity": 9
+  },
+  {
+    "id": 25,
+    "brand": "Seiko",
+    "model": "Seiko Solar SNE585",
+    "price": 375.0,
+    "strap_material": "silicone",
+    "display_type": "analog",
+    "tags": [
+      "solar-powered",
+      "diver",
+      "100m-water-resistant",
+      "eco-friendly",
+      "low-maintenance"
+    ],
+    "images": [
+      "https://via.placeholder.com/800x800.webp?text=Seiko+Solar+Diver+Front",
+      "https://via.placeholder.com/800x800.webp?text=Seiko+Solar+Diver+Side"
+    ],
+    "quantity": 12
+  },
+  {
+    "id": 26,
+    "brand": "Seiko",
+    "model": "Seiko 5 Field Watch SNK809",
+    "price": 99.0,
+    "strap_material": "fabric",
+    "display_type": "analog",
+    "tags": [
+      "automatic",
+      "field-watch",
+      "military",
+      "hacking",
+      "value"
+    ],
+    "images": [
+      "https://via.placeholder.com/800x800.webp?text=Seiko+SNK809+Front",
+      "https://via.placeholder.com/800x800.webp?text=Seiko+SNK809+Side"
+    ],
+    "quantity": 21
+  },
+  {
+    "id": 27,
+    "brand": "Seiko",
+    "model": "Seiko Prospex Arnie SNJ025",
+    "price": 595.0,
+    "strap_material": "silicone",
+    "display_type": "analog-digital",
+    "tags": [
+      "hybrid",
+      "solar-powered",
+      "200m-water-resistant",
+      "iconic",
+      "quartz-analog"
+    ],
+    "images": [
+      "https://via.placeholder.com/800x800.webp?text=Seiko+Arnie+Front",
+      "https://via.placeholder.com/800x800.webp?text=Seiko+Arnie+Side"
+    ],
+    "quantity": 6
+  },
+  {
+    "id": 28,
+    "brand": "Seiko",
+    "model": "Seiko Presage Sharp Edged SPB165",
+    "price": 750.0,
+    "strap_material": "leather",
+    "display_type": "analog",
+    "tags": [
+      "automatic",
+      "dress",
+      "textured-dial",
+      "elegant",
+      "japanese-aesthetic"
+    ],
+    "images": [
+      "https://via.placeholder.com/800x800.webp?text=Seiko+Sharp+Edged+Front",
+      "https://via.placeholder.com/800x800.webp?text=Seiko+Sharp+Edged+Side"
+    ],
+    "quantity": 7
+  },
+  {
+    "id": 29,
+    "brand": "Seiko",
+    "model": "Seiko Essentials SUR307",
+    "price": 125.0,
+    "strap_material": "leather",
+    "display_type": "analog",
+    "tags": [
+      "quartz",
+      "dress",
+      "slim",
+      "date",
+      "affordable"
+    ],
+    "images": [
+      "https://via.placeholder.com/800x800.webp?text=Seiko+Essentials+Front",
+      "https://via.placeholder.com/800x800.webp?text=Seiko+Essentials+Side"
+    ],
+    "quantity": 25
+  },
+  {
+    "id": 30,
+    "brand": "Seiko",
+    "model": "Seiko Prospex Speedtimer SSC813",
+    "price": 675.0,
+    "strap_material": "steel",
+    "display_type": "analog",
+    "tags": [
+      "solar-chronograph",
+      "panda-dial",
+      "sport",
+      "tachymeter",
+      "precision"
+    ],
+    "images": [
+      "https://via.placeholder.com/800x800.webp?text=Seiko+Speedtimer+Front",
+      "https://via.placeholder.com/800x800.webp?text=Seiko+Speedtimer+Side"
+    ],
+    "quantity": 5
+  },
+  {
+    "id": 31,
+    "brand": "Seiko",
+    "model": "Seiko 5 GMT SSK001",
+    "price": 475.0,
+    "strap_material": "steel",
+    "display_type": "analog",
+    "tags": [
+      "automatic",
+      "gmt",
+      "travel",
+      "dual-time",
+      "value"
+    ],
+    "images": [
+      "https://via.placeholder.com/800x800.webp?text=Seiko+5+GMT+Front",
+      "https://via.placeholder.com/800x800.webp?text=Seiko+5+GMT+Side"
+    ],
+    "quantity": 8
+  },
+  {
+    "id": 32,
+    "brand": "Seiko",
+    "model": "Seiko Premier SSA346",
+    "price": 395.0,
+    "strap_material": "leather",
+    "display_type": "analog",
+    "tags": [
+      "open-heart",
+      "automatic",
+      "dress",
+      "skeleton-dial",
+      "elegant"
+    ],
+    "images": [
+      "https://via.placeholder.com/800x800.webp?text=Seiko+Premier+Front",
+      "https://via.placeholder.com/800x800.webp?text=Seiko+Premier+Side"
+    ],
+    "quantity": 10
+  },
+  {
+    "id": 33,
+    "brand": "Seiko",
+    "model": "Seiko Prospex Land Tortoise SRPH13",
+    "price": 550.0,
+    "strap_material": "silicone",
+    "display_type": "analog",
+    "tags": [
+      "field-watch",
+      "automatic",
+      "adventure",
+      "200m-water-resistant",
+      "rugged"
+    ],
+    "images": [
+      "https://via.placeholder.com/800x800.webp?text=Seiko+Land+Tortoise+Front",
+      "https://via.placeholder.com/800x800.webp?text=Seiko+Land+Tortoise+Side"
+    ],
+    "quantity": 7
+  },
+  {
+    "id": 34,
+    "brand": "Seiko",
+    "model": "Seiko Lukia SSVW175",
+    "price": 320.0,
+    "strap_material": "steel",
+    "display_type": "analog",
+    "tags": [
+      "women",
+      "solar-powered",
+      "elegant",
+      "mother-of-pearl",
+      "dress"
+    ],
+    "images": [
+      "https://via.placeholder.com/800x800.webp?text=Seiko+Lukia+Front",
+      "https://via.placeholder.com/800x800.webp?text=Seiko+Lukia+Side"
+    ],
+    "quantity": 15
+  },
+  {
+    "id": 35,
+    "brand": "Seiko",
+    "model": "Seiko 5 Sports SRPE61",
+    "price": 275.0,
+    "strap_material": "steel",
+    "display_type": "analog",
+    "tags": [
+      "automatic",
+      "dresskx",
+      "versatile",
+      "everyday",
+      "hacking"
+    ],
+    "images": [
+      "https://via.placeholder.com/800x800.webp?text=Seiko+DressKX+Front",
+      "https://via.placeholder.com/800x800.webp?text=Seiko+DressKX+Side"
+    ],
+    "quantity": 16
+  },
+  {
+    "id": 36,
+    "brand": "Seiko",
+    "model": "Seiko Prospex Monster SRPD25",
+    "price": 395.0,
+    "strap_material": "silicone",
+    "display_type": "analog",
+    "tags": [
+      "diver",
+      "automatic",
+      "bold-design",
+      "luminous",
+      "aggressive"
+    ],
+    "images": [
+      "https://via.placeholder.com/800x800.webp?text=Seiko+Monster+Front",
+      "https://via.placeholder.com/800x800.webp?text=Seiko+Monster+Side"
+    ],
+    "quantity": 9
+  },
+  {
+    "id": 37,
+    "brand": "Seiko",
+    "model": "Seiko Essentials SNE102",
+    "price": 145.0,
+    "strap_material": "leather",
+    "display_type": "analog",
+    "tags": [
+      "solar-powered",
+      "dress",
+      "slim",
+      "eco-friendly",
+      "minimalist"
+    ],
+    "images": [
+      "https://via.placeholder.com/800x800.webp?text=Seiko+Solar+Dress+Front",
+      "https://via.placeholder.com/800x800.webp?text=Seiko+Solar+Dress+Side"
+    ],
+    "quantity": 18
+  },
+  {
+    "id": 38,
+    "brand": "Seiko",
+    "model": "Seiko Prospex Alpinist SPB121",
+    "price": 720.0,
+    "strap_material": "leather",
+    "display_type": "analog",
+    "tags": [
+      "automatic",
+      "field-watch",
+      "compass-bezel",
+      "adventure",
+      "heritage"
+    ],
+    "images": [
+      "https://via.placeholder.com/800x800.webp?text=Seiko+Alpinist+Front",
+      "https://via.placeholder.com/800x800.webp?text=Seiko+Alpinist+Side"
+    ],
+    "quantity": 6
+  },
+  {
+    "id": 39,
+    "brand": "Seiko",
+    "model": "Seiko Coutura SSG010",
+    "price": 595.0,
+    "strap_material": "steel",
+    "display_type": "analog",
+    "tags": [
+      "solar-powered",
+      "radio-controlled",
+      "world-time",
+      "premium",
+      "accurate"
+    ],
+    "images": [
+      "https://via.placeholder.com/800x800.webp?text=Seiko+Coutura+Front",
+      "https://via.placeholder.com/800x800.webp?text=Seiko+Coutura+Side"
+    ],
+    "quantity": 7
+  },
+  {
+    "id": 40,
+    "brand": "Seiko",
+    "model": "Seiko 5 Street SRPG27",
+    "price": 295.0,
+    "strap_material": "fabric",
+    "display_type": "analog",
+    "tags": [
+      "automatic",
+      "field-watch",
+      "military",
+      "canvas-strap",
+      "urban"
+    ],
+    "images": [
+      "https://via.placeholder.com/800x800.webp?text=Seiko+5+Street+Front",
+      "https://via.placeholder.com/800x800.webp?text=Seiko+5+Street+Side"
+    ],
+    "quantity": 13
+  },
+  {
+    "id": 41,
+    "brand": "Orient",
+    "model": "Orient Bambino Version 4 FAC00009W0",
+    "price": 179.0,
+    "strap_material": "leather",
+    "display_type": "analog",
+    "tags": [
+      "dress",
+      "automatic",
+      "domed-crystal",
+      "classic",
+      "affordable-luxury"
+    ],
+    "images": [
+      "https://via.placeholder.com/800x800.webp?text=Orient+Bambino+Front",
+      "https://via.placeholder.com/800x800.webp?text=Orient+Bambino+Side"
+    ],
+    "quantity": 17
+  },
+  {
+    "id": 42,
+    "brand": "Orient",
+    "model": "Orient Kamasu RA-AA0001L19A",
+    "price": 299.0,
+    "strap_material": "steel",
+    "display_type": "analog",
+    "tags": [
+      "diver",
+      "automatic",
+      "sapphire-crystal",
+      "luminous",
+      "200m-water-resistant"
+    ],
+    "images": [
+      "https://via.placeholder.com/800x800.webp?text=Orient+Kamasu+Front",
+      "https://via.placeholder.com/800x800.webp?text=Orient+Kamasu+Side"
+    ],
+    "quantity": 12
+  },
+  {
+    "id": 43,
+    "brand": "Orient",
+    "model": "Orient Mako II FAA02005D9",
+    "price": 225.0,
+    "strap_material": "steel",
+    "display_type": "analog",
+    "tags": [
+      "diver",
+      "automatic",
+      "day-date",
+      "rotating-bezel",
+      "value"
+    ],
+    "images": [
+      "https://via.placeholder.com/800x800.webp?text=Orient+Mako+II+Front",
+      "https://via.placeholder.com/800x800.webp?text=Orient+Mako+II+Side"
+    ],
+    "quantity": 15
+  },
+  {
+    "id": 44,
+    "brand": "Orient",
+    "model": "Orient Ray II FAA02009B9",
+    "price": 215.0,
+    "strap_material": "steel",
+    "display_type": "analog",
+    "tags": [
+      "diver",
+      "automatic",
+      "luminous",
+      "200m-water-resistant",
+      "tool-watch"
+    ],
+    "images": [
+      "https://via.placeholder.com/800x800.webp?text=Orient+Ray+II+Front",
+      "https://via.placeholder.com/800x800.webp?text=Orient+Ray+II+Side"
+    ],
+    "quantity": 14
+  },
+  {
+    "id": 45,
+    "brand": "Orient",
+    "model": "Orient Defender 2 ER2F001W",
+    "price": 165.0,
+    "strap_material": "fabric",
+    "display_type": "analog",
+    "tags": [
+      "field-watch",
+      "automatic",
+      "24-hour-scale",
+      "rugged",
+      "outdoor"
+    ],
+    "images": [
+      "https://via.placeholder.com/800x800.webp?text=Orient+Defender+Front",
+      "https://via.placeholder.com/800x800.webp?text=Orient+Defender+Side"
+    ],
+    "quantity": 16
+  },
+  {
+    "id": 46,
+    "brand": "Orient",
+    "model": "Orient Sun and Moon FAK00009W0",
+    "price": 345.0,
+    "strap_material": "leather",
+    "display_type": "analog",
+    "tags": [
+      "automatic",
+      "complication",
+      "moon-phase",
+      "elegant",
+      "dress"
+    ],
+    "images": [
+      "https://via.placeholder.com/800x800.webp?text=Orient+Sun+Moon+Front",
+      "https://via.placeholder.com/800x800.webp?text=Orient+Sun+Moon+Side"
+    ],
+    "quantity": 8
+  },
+  {
+    "id": 47,
+    "brand": "Orient",
+    "model": "Orient Star Classic RE-AU0006L00B",
+    "price": 850.0,
+    "strap_material": "leather",
+    "display_type": "analog",
+    "tags": [
+      "premium",
+      "automatic",
+      "power-reserve",
+      "sapphire-crystal",
+      "elegant"
+    ],
+    "images": [
+      "https://via.placeholder.com/800x800.webp?text=Orient+Star+Front",
+      "https://via.placeholder.com/800x800.webp?text=Orient+Star+Side"
+    ],
+    "quantity": 5
+  },
+  {
+    "id": 48,
+    "brand": "Orient",
+    "model": "Orient Maestro EMT7S002W",
+    "price": 135.0,
+    "strap_material": "leather",
+    "display_type": "analog",
+    "tags": [
+      "quartz",
+      "dress",
+      "slim",
+      "minimalist",
+      "affordable"
+    ],
+    "images": [
+      "https://via.placeholder.com/800x800.webp?text=Orient+Maestro+Front",
+      "https://via.placeholder.com/800x800.webp?text=Orient+Maestro+Side"
+    ],
+    "quantity": 22
+  },
+  {
+    "id": 49,
+    "brand": "Orient",
+    "model": "Orient Polaris GMT ER2A004B",
+    "price": 495.0,
+    "strap_material": "leather",
+    "display_type": "analog",
+    "tags": [
+      "automatic",
+      "gmt",
+      "true-gmt",
+      "travel",
+      "dual-time"
+    ],
+    "images": [
+      "https://via.placeholder.com/800x800.webp?text=Orient+Polaris+Front",
+      "https://via.placeholder.com/800x800.webp?text=Orient+Polaris+Side"
+    ],
+    "quantity": 6
+  },
+  {
+    "id": 50,
+    "brand": "Orient",
+    "model": "Orient Triton RA-AC0H07L10A",
+    "price": 695.0,
+    "strap_material": "steel",
+    "display_type": "analog",
+    "tags": [
+      "diver",
+      "automatic",
+      "professional",
+      "300m-water-resistant",
+      "helium-escape-valve"
+    ],
+    "images": [
+      "https://via.placeholder.com/800x800.webp?text=Orient+Triton+Front",
+      "https://via.placeholder.com/800x800.webp?text=Orient+Triton+Side"
+    ],
+    "quantity": 4
+  },
+  {
+    "id": 51,
+    "brand": "Rolex",
+    "model": "Rolex Submariner 124060",
+    "price": 9100.0,
+    "strap_material": "steel",
+    "display_type": "analog",
+    "tags": [
+      "luxury",
+      "diver",
+      "iconic",
+      "ceramic-bezel",
+      "chronometer",
+      "investment"
+    ],
+    "images": [
+      "https://via.placeholder.com/800x800.webp?text=Rolex+Submariner+Front",
+      "https://via.placeholder.com/800x800.webp?text=Rolex+Submariner+Side"
+    ],
+    "quantity": 2
+  },
+  {
+    "id": 52,
+    "brand": "Rolex",
+    "model": "Rolex Datejust 126234",
+    "price": 12500.0,
+    "strap_material": "steel",
+    "display_type": "analog",
+    "tags": [
+      "luxury",
+      "dress",
+      "fluted-bezel",
+      "jubilee-bracelet",
+      "cyclops",
+      "timeless"
+    ],
+    "images": [
+      "https://via.placeholder.com/800x800.webp?text=Rolex+Datejust+Front",
+      "https://via.placeholder.com/800x800.webp?text=Rolex+Datejust+Side"
+    ],
+    "quantity": 3
+  },
+  {
+    "id": 53,
+    "brand": "Rolex",
+    "model": "Rolex GMT-Master II 126710BLNR",
+    "price": 10750.0,
+    "strap_material": "steel",
+    "display_type": "analog",
+    "tags": [
+      "luxury",
+      "gmt",
+      "batman",
+      "ceramic-bezel",
+      "travel",
+      "professional"
+    ],
+    "images": [
+      "https://via.placeholder.com/800x800.webp?text=Rolex+GMT+Batman+Front",
+      "https://via.placeholder.com/800x800.webp?text=Rolex+GMT+Batman+Side"
+    ],
+    "quantity": 1
+  },
+  {
+    "id": 54,
+    "brand": "Rolex",
+    "model": "Rolex Day-Date 228238",
+    "price": 38500.0,
+    "strap_material": "gold",
+    "display_type": "analog",
+    "tags": [
+      "luxury",
+      "president",
+      "gold",
+      "prestige",
+      "day-date",
+      "status"
+    ],
+    "images": [
+      "https://via.placeholder.com/800x800.webp?text=Rolex+Day-Date+Front",
+      "https://via.placeholder.com/800x800.webp?text=Rolex+Day-Date+Side"
+    ],
+    "quantity": 1
+  },
+  {
+    "id": 55,
+    "brand": "Rolex",
+    "model": "Rolex Explorer II 226570",
+    "price": 9350.0,
+    "strap_material": "steel",
+    "display_type": "analog",
+    "tags": [
+      "luxury",
+      "explorer",
+      "gmt",
+      "orange-hand",
+      "adventure",
+      "tool-watch"
+    ],
+    "images": [
+      "https://via.placeholder.com/800x800.webp?text=Rolex+Explorer+II+Front",
+      "https://via.placeholder.com/800x800.webp?text=Rolex+Explorer+II+Side"
+    ],
+    "quantity": 2
+  },
+  {
+    "id": 56,
+    "brand": "Rolex",
+    "model": "Rolex Yacht-Master 126622",
+    "price": 12750.0,
+    "strap_material": "steel",
+    "display_type": "analog",
+    "tags": [
+      "luxury",
+      "yacht-master",
+      "platinum-dial",
+      "sport",
+      "elegant",
+      "marine"
+    ],
+    "images": [
+      "https://via.placeholder.com/800x800.webp?text=Rolex+Yacht-Master+Front",
+      "https://via.placeholder.com/800x800.webp?text=Rolex+Yacht-Master+Side"
+    ],
+    "quantity": 1
+  },
+  {
+    "id": 57,
+    "brand": "Rolex",
+    "model": "Rolex Air-King 126900",
+    "price": 7650.0,
+    "strap_material": "steel",
+    "display_type": "analog",
+    "tags": [
+      "luxury",
+      "aviator",
+      "heritage",
+      "05-3-6-9-dial",
+      "tool-watch"
+    ],
+    "images": [
+      "https://via.placeholder.com/800x800.webp?text=Rolex+Air-King+Front",
+      "https://via.placeholder.com/800x800.webp?text=Rolex+Air-King+Side"
+    ],
+    "quantity": 3
+  },
+  {
+    "id": 58,
+    "brand": "Rolex",
+    "model": "Rolex Oyster Perpetual 124300",
+    "price": 5900.0,
+    "strap_material": "steel",
+    "display_type": "analog",
+    "tags": [
+      "luxury",
+      "simple",
+      "colorful-dials",
+      "versatile",
+      "everyday",
+      "timeless"
+    ],
+    "images": [
+      "https://via.placeholder.com/800x800.webp?text=Rolex+OP+Front",
+      "https://via.placeholder.com/800x800.webp?text=Rolex+OP+Side"
+    ],
+    "quantity": 4
+  },
+  {
+    "id": 59,
+    "brand": "Rolex",
+    "model": "Rolex Milgauss 116400GV",
+    "price": 8600.0,
+    "strap_material": "steel",
+    "display_type": "analog",
+    "tags": [
+      "luxury",
+      "anti-magnetic",
+      "scientist",
+      "green-crystal",
+      "orange-hand",
+      "unique"
+    ],
+    "images": [
+      "https://via.placeholder.com/800x800.webp?text=Rolex+Milgauss+Front",
+      "https://via.placeholder.com/800x800.webp?text=Rolex+Milgauss+Side"
+    ],
+    "quantity": 2
+  },
+  {
+    "id": 60,
+    "brand": "Rolex",
+    "model": "Rolex Sea-Dweller 126600",
+    "price": 14250.0,
+    "strap_material": "steel",
+    "display_type": "analog",
+    "tags": [
+      "luxury",
+      "diver",
+      "professional",
+      "1220m-water-resistant",
+      "helium-escape-valve",
+      "deep-sea"
+    ],
+    "images": [
+      "https://via.placeholder.com/800x800.webp?text=Rolex+Sea-Dweller+Front",
+      "https://via.placeholder.com/800x800.webp?text=Rolex+Sea-Dweller+Side"
+    ],
+    "quantity": 1
+  },
+  {
+    "id": 61,
+    "brand": "Citizen",
+    "model": "Citizen Eco-Drive AW1361-10H",
+    "price": 145.0,
+    "strap_material": "steel",
+    "display_type": "analog",
+    "tags": [
+      "solar-powered",
+      "eco-drive",
+      "perpetual-calendar",
+      "day-date",
+      "dress"
+    ],
+    "images": [
+      "https://via.placeholder.com/800x800.webp?text=Citizen+Eco-Drive+AW1361+Front",
+      "https://via.placeholder.com/800x800.webp?text=Citizen+Eco-Drive+AW1361+Side"
+    ],
+    "quantity": 17
+  },
+  {
+    "id": 62,
+    "brand": "Citizen",
+    "model": "Citizen Promaster Diver BN0150-28E",
+    "price": 295.0,
+    "strap_material": "rubber",
+    "display_type": "analog",
+    "tags": [
+      "diver",
+      "professional",
+      "200m-water-resistant",
+      "luminous",
+      "iso-certified"
+    ],
+    "images": [
+      "https://via.placeholder.com/800x800.webp?text=Citizen+Promaster+Diver+Front",
+      "https://via.placeholder.com/800x800.webp?text=Citizen+Promaster+Diver+Side"
+    ],
+    "quantity": 12
+  },
+  {
+    "id": 63,
+    "brand": "Citizen",
+    "model": "Citizen Chandler Eco-Drive BM8180-03E",
+    "price": 165.0,
+    "strap_material": "fabric",
+    "display_type": "analog",
+    "tags": [
+      "field-watch",
+      "military",
+      "solar-powered",
+      "minimalist",
+      "outdoor"
+    ],
+    "images": [
+      "https://via.placeholder.com/800x800.webp?text=Citizen+Chandler+Front",
+      "https://via.placeholder.com/800x800.webp?text=Citizen+Chandler+Side"
+    ],
+    "quantity": 19
+  },
+  {
+    "id": 64,
+    "brand": "Citizen",
+    "model": "Citizen Eco-Drive Garrison CA7000-00L",
+    "price": 225.0,
+    "strap_material": "fabric",
+    "display_type": "analog",
+    "tags": [
+      "field-watch",
+      "solar-powered",
+      "nylon-strap",
+      "rugged",
+      "adventure"
+    ],
+    "images": [
+      "https://via.placeholder.com/800x800.webp?text=Citizen+Garrison+Front",
+      "https://via.placeholder.com/800x800.webp?text=Citizen+Garrison+Side"
+    ],
+    "quantity": 14
+  },
+  {
+    "id": 65,
+    "brand": "Citizen",
+    "model": "Citizen Eco-Drive Brycen Chronograph AT0220-01E",
+    "price": 275.0,
+    "strap_material": "steel",
+    "display_type": "analog",
+    "tags": [
+      "chronograph",
+      "sporty",
+      "solar-powered",
+      "tachymeter",
+      "aviator"
+    ],
+    "images": [
+      "https://via.placeholder.com/800x800.webp?text=Citizen+Brycen+Front",
+      "https://via.placeholder.com/800x800.webp?text=Citizen+Brycen+Side"
+    ],
+    "quantity": 11
+  },
+  {
+    "id": 66,
+    "brand": "Citizen",
+    "model": "Citizen Promaster Skyhawk A-T JY8078-01L",
+    "price": 495.0,
+    "strap_material": "steel",
+    "display_type": "analog-digital",
+    "tags": [
+      "aviator",
+      "radio-controlled",
+      "eco-drive",
+      "multiband-6",
+      "world-time"
+    ],
+    "images": [
+      "https://via.placeholder.com/800x800.webp?text=Citizen+Skyhawk+Front",
+      "https://via.placeholder.com/800x800.webp?text=Citizen+Skyhawk+Side"
+    ],
+    "quantity": 7
+  },
+  {
+    "id": 67,
+    "brand": "Citizen",
+    "model": "Citizen Eco-Drive Corso BM7420-53L",
+    "price": 195.0,
+    "strap_material": "leather",
+    "display_type": "analog",
+    "tags": [
+      "dress",
+      "slim",
+      "solar-powered",
+      "minimalist",
+      "elegant"
+    ],
+    "images": [
+      "https://via.placeholder.com/800x800.webp?text=Citizen+Corso+Front",
+      "https://via.placeholder.com/800x800.webp?text=Citizen+Corso+Side"
+    ],
+    "quantity": 20
+  },
+  {
+    "id": 68,
+    "brand": "Citizen",
+    "model": "Citizen Promaster Land PMD56-2951",
+    "price": 850.0,
+    "strap_material": "titanium",
+    "display_type": "analog",
+    "tags": [
+      "field-watch",
+      "titanium",
+      "radio-controlled",
+      "sapphire-crystal",
+      "satellite-wave"
+    ],
+    "images": [
+      "https://via.placeholder.com/800x800.webp?text=Citizen+Promaster+Land+Front",
+      "https://via.placeholder.com/800x800.webp?text=Citizen+Promaster+Land+Side"
+    ],
+    "quantity": 5
+  },
+  {
+    "id": 69,
+    "brand": "Citizen",
+    "model": "Citizen Eco-Drive Silhouette Crystal FE7064-51W",
+    "price": 325.0,
+    "strap_material": "steel",
+    "display_type": "analog",
+    "tags": [
+      "women",
+      "dress",
+      "mother-of-pearl",
+      "diamond-markers",
+      "elegant"
+    ],
+    "images": [
+      "https://via.placeholder.com/800x800.webp?text=Citizen+Silhouette+Front",
+      "https://via.placeholder.com/800x800.webp?text=Citizen+Silhouette+Side"
+    ],
+    "quantity": 16
+  },
+  {
+    "id": 70,
+    "brand": "Citizen",
+    "model": "Citizen Eco-Drive Weekender AW1158-08L",
+    "price": 175.0,
+    "strap_material": "fabric",
+    "display_type": "analog",
+    "tags": [
+      "casual",
+      "weekender",
+      "solar-powered",
+      "canvas-strap",
+      "versatile"
+    ],
+    "images": [
+      "https://via.placeholder.com/800x800.webp?text=Citizen+Weekender+Front",
+      "https://via.placeholder.com/800x800.webp?text=Citizen+Weekender+Side"
+    ],
+    "quantity": 21
+  },
+  {
+    "id": 71,
+    "brand": "Citizen",
+    "model": "Citizen Eco-Drive Royal Marines Commando CA0710-82E",
+    "price": 395.0,
+    "strap_material": "fabric",
+    "display_type": "analog",
+    "tags": [
+      "military",
+      "tactical",
+      "solar-powered",
+      "nato-strap",
+      "rugged"
+    ],
+    "images": [
+      "https://via.placeholder.com/800x800.webp?text=Citizen+Commando+Front",
+      "https://via.placeholder.com/800x800.webp?text=Citizen+Commando+Side"
+    ],
+    "quantity": 9
+  },
+  {
+    "id": 72,
+    "brand": "Citizen",
+    "model": "Citizen Eco-Drive Avion AW0081-07L",
+    "price": 245.0,
+    "strap_material": "leather",
+    "display_type": "analog",
+    "tags": [
+      "aviator",
+      "solar-powered",
+      "slide-rule-bezel",
+      "pilot",
+      "heritage"
+    ],
+    "images": [
+      "https://via.placeholder.com/800x800.webp?text=Citizen+Avion+Front",
+      "https://via.placeholder.com/800x800.webp?text=Citizen+Avion+Side"
+    ],
+    "quantity": 13
+  },
+  {
+    "id": 73,
+    "brand": "Citizen",
+    "model": "Citizen Eco-Drive Calendrier BU2055-08E",
+    "price": 195.0,
+    "strap_material": "steel",
+    "display_type": "analog",
+    "tags": [
+      "dress",
+      "solar-powered",
+      "day-date",
+      "sapphire-crystal",
+      "business"
+    ],
+    "images": [
+      "https://via.placeholder.com/800x800.webp?text=Citizen+Calendrier+Front",
+      "https://via.placeholder.com/800x800.webp?text=Citizen+Calendrier+Side"
+    ],
+    "quantity": 18
+  },
+  {
+    "id": 74,
+    "brand": "Citizen",
+    "model": "Citizen Promaster Aqualand BN2031-09L",
+    "price": 425.0,
+    "strap_material": "silicone",
+    "display_type": "analog-digital",
+    "tags": [
+      "diver",
+      "professional",
+      "depth-sensor",
+      "200m-water-resistant",
+      "tool-watch"
+    ],
+    "images": [
+      "https://via.placeholder.com/800x800.webp?text=Citizen+Aqualand+Front",
+      "https://via.placeholder.com/800x800.webp?text=Citizen+Aqualand+Side"
+    ],
+    "quantity": 8
+  },
+  {
+    "id": 75,
+    "brand": "Citizen",
+    "model": "Citizen Eco-Drive Stella FE1113-01A",
+    "price": 275.0,
+    "strap_material": "steel",
+    "display_type": "analog",
+    "tags": [
+      "women",
+      "dress",
+      "diamond-bezel",
+      "solar-powered",
+      "sparkling"
+    ],
+    "images": [
+      "https://via.placeholder.com/800x800.webp?text=Citizen+Stella+Front",
+      "https://via.placeholder.com/800x800.webp?text=Citizen+Stella+Side"
+    ],
+    "quantity": 15
+  },
+  {
+    "id": 76,
+    "brand": "Elegance",
+    "model": "Elegance Heritage Classic E9-107",
+    "price": 895.0,
+    "strap_material": "leather",
+    "display_type": "analog",
+    "tags": [
+      "dress",
+      "swiss-made",
+      "sapphire-crystal",
+      "slim",
+      "elegant"
+    ],
+    "images": [
+      "https://via.placeholder.com/800x800.webp?text=Elegance+Heritage+Front",
+      "https://via.placeholder.com/800x800.webp?text=Elegance+Heritage+Side"
+    ],
+    "quantity": 9
+  },
+  {
+    "id": 77,
+    "brand": "Elegance",
+    "model": "Elegance Luna Moonphase E7-203",
+    "price": 1250.0,
+    "strap_material": "alligator",
+    "display_type": "analog",
+    "tags": [
+      "complication",
+      "moon-phase",
+      "automatic",
+      "dress",
+      "luxury"
+    ],
+    "images": [
+      "https://via.placeholder.com/800x800.webp?text=Elegance+Luna+Front",
+      "https://via.placeholder.com/800x800.webp?text=Elegance+Luna+Side"
+    ],
+    "quantity": 6
+  },
+  {
+    "id": 78,
+    "brand": "Elegance",
+    "model": "Elegance Aventura Chronograph E5-451",
+    "price": 1450.0,
+    "strap_material": "steel",
+    "display_type": "analog",
+    "tags": [
+      "chronograph",
+      "sporty",
+      "tachymeter",
+      "automatic",
+      "premium"
+    ],
+    "images": [
+      "https://via.placeholder.com/800x800.webp?text=Elegance+Aventura+Front",
+      "https://via.placeholder.com/800x800.webp?text=Elegance+Aventura+Side"
+    ],
+    "quantity": 7
+  },
+  {
+    "id": 79,
+    "brand": "Elegance",
+    "model": "Elegance Serene Slim E2-108",
+    "price": 750.0,
+    "strap_material": "leather",
+    "display_type": "analog",
+    "tags": [
+      "quartz",
+      "ultra-thin",
+      "dress",
+      "minimalist",
+      "discreet"
+    ],
+    "images": [
+      "https://via.placeholder.com/800x800.webp?text=Elegance+Serene+Front",
+      "https://via.placeholder.com/800x800.webp?text=Elegance+Serene+Side"
+    ],
+    "quantity": 14
+  },
+  {
+    "id": 80,
+    "brand": "Elegance",
+    "model": "Elegance Marquise Diamond E8-302",
+    "price": 2200.0,
+    "strap_material": "steel",
+    "display_type": "analog",
+    "tags": [
+      "women",
+      "diamond-bezel",
+      "mother-of-pearl",
+      "luxury",
+      "sparkling"
+    ],
+    "images": [
+      "https://via.placeholder.com/800x800.webp?text=Elegance+Marquise+Front",
+      "https://via.placeholder.com/800x800.webp?text=Elegance+Marquise+Side"
+    ],
+    "quantity": 5
+  },
+  {
+    "id": 81,
+    "brand": "Elegance",
+    "model": "Elegance GMT Voyager E6-505",
+    "price": 1650.0,
+    "strap_material": "steel",
+    "display_type": "analog",
+    "tags": [
+      "gmt",
+      "automatic",
+      "travel",
+      "dual-time",
+      "sporty-elegant"
+    ],
+    "images": [
+      "https://via.placeholder.com/800x800.webp?text=Elegance+GMT+Voyager+Front",
+      "https://via.placeholder.com/800x800.webp?text=Elegance+GMT+Voyager+Side"
+    ],
+    "quantity": 8
+  },
+  {
+    "id": 82,
+    "brand": "Elegance",
+    "model": "Elegance Artisan Skeleton E4-701",
+    "price": 2850.0,
+    "strap_material": "leather",
+    "display_type": "analog",
+    "tags": [
+      "skeleton",
+      "automatic",
+      "exhibition-caseback",
+      "artistic",
+      "mechanical"
+    ],
+    "images": [
+      "https://via.placeholder.com/800x800.webp?text=Elegance+Artisan+Front",
+      "https://via.placeholder.com/800x800.webp?text=Elegance+Artisan+Side"
+    ],
+    "quantity": 4
+  }
+]
