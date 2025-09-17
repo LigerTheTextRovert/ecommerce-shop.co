@@ -1,1 +1,13 @@
 @import "tailwindcss";
+
+@theme {
+  --clr-1: #37353e;
+  --clr-2: #44444e;
+  --clr-3: #715a5a;
+  --clr-4: #d3dad9;
+  --clr-bg: #fffafa;
+}
+
+body {
+  background-color: var(--clr-bg);
+}
