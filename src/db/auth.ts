@@ -14,7 +14,7 @@ export const loginUser =
       dispatch(
         login({
           userName: data.user.email ?? "Unknown",
-          session: data.session.access_token,
+          session: data.session,
         }),
       );
     }
