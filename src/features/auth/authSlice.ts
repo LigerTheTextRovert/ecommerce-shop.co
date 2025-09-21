@@ -1,9 +1,16 @@
 import { createSlice, type PayloadAction } from "@reduxjs/toolkit";
 
+interface Session {
+  access_token: string;
+  refresh_token: string;
+  expires_in: number;
+  // etc.
+}
+
 interface AuthState {
   isUserAuthenticated: boolean;
   userName: string | null;
-  session: string | null;
+  session: Session | null;
 }
 const initialState: AuthState = {
   isUserAuthenticated: false,
@@ -21,7 +28,7 @@ const authSlice = createSlice({
     ) => {
       state.isUserAuthenticated = true;
       state.userName = action.payload.userName;
-      state.session = action.payload.session;
+      // state.session = action.payload.session;
     },
     logout: (state) => {
       state.isUserAuthenticated = false;

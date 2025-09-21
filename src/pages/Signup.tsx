@@ -9,7 +9,7 @@ export default function Signup() {
           <h1 className="text-4xl font-bold mb-1">Sign Up</h1>
           <p className="mb-4 text-lg text-primary/80">Create your account</p>
 
-          <button className="flex items-center justify-center gap-2 text-xl tracking-wide border border-primary font-semibold hover:bg-primary/10 py-2 px-8 rounded-lg">
+          <button className="relative flex items-center justify-center gap-2 text-xl tracking-wide border border-primary font-semibold hover:bg-primary/10 py-2 px-8 rounded-lg">
             <Gmail /> Sign up with Gmail
           </button>
 
