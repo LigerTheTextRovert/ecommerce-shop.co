@@ -4,18 +4,19 @@ interface Session {
   access_token: string;
   refresh_token: string;
   expires_in: number;
-  // etc.
+  token_type?: string;
+  user?: any;
 }
 
 interface AuthState {
   isUserAuthenticated: boolean;
-  userName: string | null;
+  username: string | null;
   session: Session | null;
 }
 const initialState: AuthState = {
   isUserAuthenticated: false,
   session: null,
-  userName: null,
+  username: null,
 };
 
 const authSlice = createSlice({
@@ -24,15 +25,15 @@ const authSlice = createSlice({
   reducers: {
     login: (
       state,
-      action: PayloadAction<{ userName: string; session: string }>,
+      action: PayloadAction<{ userName: string; session: Session }>,
     ) => {
       state.isUserAuthenticated = true;
-      state.userName = action.payload.userName;
-      // state.session = action.payload.session;
+      state.username = action.payload.userName;
+      state.session = action.payload.session;
     },
     logout: (state) => {
       state.isUserAuthenticated = false;
-      state.userName = null;
+      state.username = null;
       state.session = null;
     },
   },
@@ -44,6 +45,6 @@ export const selectIsUserAuthenticated = (state: { auth: AuthState }) =>
   state.auth.isUserAuthenticated;
 
 export const selectUserName = (state: { auth: AuthState }) =>
-  state.auth.userName;
+  state.auth.username;
 
 export default authSlice.reducer;
