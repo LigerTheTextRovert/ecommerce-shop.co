@@ -1,12 +1,19 @@
 import { useState } from "react";
+import { Link } from "react-router-dom";
 import { Login } from "../icons/Login";
 import { Cross } from "../icons/Cross";
 import { ShoppingBag } from "../icons/ShoppingBag";
+import type { RootState } from "../../features/store";
 import Button from "../ui/Button";
 import Input from "../ui/InputBox";
+import { useSelector } from "react-redux";
 
 export default function Navbar() {
   const [alert, setAlert] = useState<boolean>(true);
+  const { username, isUserAuthenticated } = useSelector(
+    (state: RootState) => state.auth,
+  );
+
   return (
     <>
       <div
@@ -23,15 +30,21 @@ export default function Navbar() {
         <Input />
 
         <div className="flex items-center ">
-          <Button>
-            Login
-            <Login className="w-6 h-6" />
-          </Button>
+          {isUserAuthenticated ? (
+            <h1 className="text-lg">welcome back {username}</h1>
+          ) : (
+            <Button>
+              <Link to="/login">Login</Link>
+              <Login className="w-6 h-6" />
+            </Button>
+          )}
 
-          {/* <Button> */}
-          {/*   Cart */}
-          {/*   <ShoppingBag className="w-6 h-6" /> */}
-          {/* </Button> */}
+          {isUserAuthenticated && (
+            <Button>
+              Cart
+              <ShoppingBag className="w-6 h-6" />
+            </Button>
+          )}
         </div>
       </nav>
     </>
