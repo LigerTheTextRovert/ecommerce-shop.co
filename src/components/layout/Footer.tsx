@@ -8,7 +8,9 @@ export default function Footer() {
         <div className="flex flex-col items-start justify-between">
           <div>
             <h2 className="text-4xl font-black ">Horea.co</h2>
-            <p className="mt-2 text-sm">Timeless pieces, tailored to you.</p>
+            <p className="mt-2 text-lg tracking-wide">
+              Timeless pieces, tailored to you.
+            </p>
           </div>
           <div className="text-center mt-8 text-base opacity-70">
             © {new Date().getFullYear()} Horea.co. All rights reserved.

@@ -31,7 +31,9 @@ export default function Navbar() {
 
         <div className="flex items-center ">
           {isUserAuthenticated ? (
-            <h1 className="text-lg">welcome back {username}</h1>
+            <h1 className="text-lg bg-muted/40 py-2 px-4 rounded-xl">
+              Welcome, {username}
+            </h1>
           ) : (
             <Button>
               <Link to="/login">Login</Link>

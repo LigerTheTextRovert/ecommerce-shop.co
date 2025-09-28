@@ -1,5 +1,6 @@
-import headerImage from "../../assets/header-image.webp";
 import { Link } from "react-router-dom";
+
+import headerImage from "../../assets/header-image.webp";
 
 export default function Header() {
   return (
@@ -9,7 +10,7 @@ export default function Header() {
     >
       <div className="p-6 h-full flex flex-col items-start justify-between">
         <div className="my-6 mx-12">
-          <h1 className="text-bg font-bold mb-4 tracking-wide text-2xl md:text-6xl">
+          <h1 className="text-bg  font-bold mb-4 tracking-wide text-2xl md:text-6xl">
             Timeless Pieces,
             <br /> Tailored to You
           </h1>
@@ -18,8 +19,13 @@ export default function Header() {
             watches
           </p>
         </div>
-        <button className="bg-bg hover:bg-accent/40 hover:text-bg font-semibold my-6 mx-12 text-xl tracking-wide py-6 px-12 m-6 border border-bg">
-          <Link to="/">Discover Now</Link>
+        <button className="group bg-bg hover:bg-accent/40 hover:text-bg flex items-center justify-center font-semibold my-6 mx-12 transition duration-300 text-2xl tracking-wide py-4 px-12 border border-bg relative overflow-hidden">
+          <Link
+            to="/"
+            className="flex items-center justify-center gap-4 relative"
+          >
+            Discover Now
+          </Link>
         </button>
       </div>
     </header>
