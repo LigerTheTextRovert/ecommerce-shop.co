@@ -8,6 +8,7 @@ import type { AppDispatch } from "../features/store";
 import { Link } from "react-router-dom";
 import { Gmail } from "../components/icons/Gmail";
 import Modal from "../components/ui/Modal";
+import { loginUserWithOAuth } from "../db/auth";
 
 export default function Login() {
   const [email, setEmail] = useState<string>("");
@@ -67,12 +68,7 @@ export default function Login() {
 
           <button
             type="button"
-            onClick={() =>
-              supabase.auth.signInWithOAuth({
-                provider: "google",
-                options: { redirectTo: "http://localhost:5173" },
-              })
-            }
+            onClick={() => loginUserWithOAuth()}
             className="flex items-center justify-center gap-2 text-xl tracking-wide border border-primary font-semibold hover:bg-primary/10 py-2 px-8 rounded-lg mb-4"
           >
             <Gmail /> Login with Gmail

@@ -20,6 +20,13 @@ export const loginUser =
     }
   };
 
+export const loginUserWithOAuth = () => {
+  return supabase.auth.signInWithOAuth({
+    provider: "google",
+    options: { redirectTo: "http://localhost:5173" },
+  });
+};
+
 export const signupUser =
   (email: string, password: string) => async (dispatch: AppDispatch) => {
     const { data, error } = await supabase.auth.signUp({
