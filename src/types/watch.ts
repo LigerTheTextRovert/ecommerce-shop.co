@@ -4,10 +4,6 @@ export interface Watch {
   model: string;
   price: number;
 
-  case_diameter: number;
-  case_thickness: number;
-  case_material: string;
-
   strap_material:
   | "steel"
   | "leather"
@@ -21,6 +17,15 @@ export interface Watch {
 
   display_type: "analog" | "digital" | "analog-digital";
   movement_type: "automatic" | "manual" | "quartz" | "solar" | "kinetic";
+
+  specs: {
+    water_resistance: string;
+    case_thickness: number;
+    case_diameter: number;
+    case_material: string;
+    movement: string;
+    crystal: string;
+  };
 
   tags: string[];
   images: string[];

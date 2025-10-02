@@ -1,7 +1,7 @@
 import type { Order } from "./order";
 import type { Watch } from "./watch";
 
-export interface User {
+export interface Customer {
   id: number;
   name: string;
   email: string;
