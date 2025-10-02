@@ -2,7 +2,7 @@ import { Provider } from "react-redux";
 import { StrictMode } from "react";
 import { createRoot } from "react-dom/client";
 import { store } from "./features/store.ts";
-import AuthListener from "./db/AuthListener.tsx";
+import AuthListener from "./servies/AuthListener.tsx";
 import App from "./App.tsx";
 
 import "./index.css";

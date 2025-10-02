@@ -1,8 +1,9 @@
 import { useState } from "react";
 import { Link } from "react-router-dom";
+
 import { Gmail } from "../components/icons/Gmail";
 import Modal from "../components/ui/Modal";
-import { supabase } from "../db/supabase";
+import { supabase } from "../servies/supabase";
 
 export default function Signup() {
   // Form states

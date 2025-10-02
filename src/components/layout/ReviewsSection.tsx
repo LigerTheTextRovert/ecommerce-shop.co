@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { reviews } from "../../db/users-reviews";
+import { reviews } from "../../servies/users-reviews";
 import UserReview from "../ui/UserReview";
 
 import { LeftArrow } from "../icons/LeftArrow";

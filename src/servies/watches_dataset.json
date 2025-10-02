@@ -1,0 +1,1738 @@
+[
+  {
+    "brand": "Casio",
+    "model": "F-91W",
+    "price": 19.99,
+    "strap_material": "resin",
+    "display_type": "digital",
+    "movement_type": "quartz",
+    "specs": {
+      "water_resistance": "30m",
+      "case_thickness": 8.5,
+      "case_diameter": 33,
+      "case_material": "resin",
+      "movement": "quartz digital",
+      "crystal": "acrylic"
+    },
+    "tags": [
+      "iconic",
+      "retro",
+      "lightweight",
+      "affordable",
+      "vintage"
+    ],
+    "images": [
+      "casio-f91w-1.jpg",
+      "casio-f91w-2.jpg"
+    ],
+    "quantity": 27
+  },
+  {
+    "brand": "Casio",
+    "model": "G-Shock DW-5600E-1V",
+    "price": 99.99,
+    "strap_material": "resin",
+    "display_type": "digital",
+    "movement_type": "quartz",
+    "specs": {
+      "water_resistance": "200m",
+      "case_thickness": 12.7,
+      "case_diameter": 42.8,
+      "case_material": "resin",
+      "movement": "quartz digital",
+      "crystal": "mineral"
+    },
+    "tags": [
+      "shock-resistant",
+      "rugged",
+      "sport",
+      "200m-water-resistant",
+      "durable"
+    ],
+    "images": [
+      "casio-dw5600-1.jpg",
+      "casio-dw5600-2.jpg"
+    ],
+    "quantity": 19
+  },
+  {
+    "brand": "Casio",
+    "model": "A158WA-1",
+    "price": 29.99,
+    "strap_material": "steel",
+    "display_type": "digital",
+    "movement_type": "quartz",
+    "specs": {
+      "water_resistance": "30m",
+      "case_thickness": 6.5,
+      "case_diameter": 33,
+      "case_material": "stainless steel",
+      "movement": "quartz digital",
+      "crystal": "mineral"
+    },
+    "tags": [
+      "retro",
+      "bracelet",
+      "80s-style",
+      "thin",
+      "nostalgic"
+    ],
+    "images": [
+      "casio-a158-1.jpg",
+      "casio-a158-2.jpg"
+    ],
+    "quantity": 22
+  },
+  {
+    "brand": "Casio",
+    "model": "Edifice EFR-S108D-7AVUEF",
+    "price": 129.99,
+    "strap_material": "steel",
+    "display_type": "analog",
+    "movement_type": "solar",
+    "specs": {
+      "water_resistance": "100m",
+      "case_thickness": 10.7,
+      "case_diameter": 43,
+      "case_material": "stainless steel",
+      "movement": "solar quartz",
+      "crystal": "mineral"
+    },
+    "tags": [
+      "chronograph",
+      "sporty",
+      "solar-powered",
+      "modern",
+      "100m-water-resistant"
+    ],
+    "images": [
+      "casio-edifice-1.jpg",
+      "casio-edifice-2.jpg"
+    ],
+    "quantity": 14
+  },
+  {
+    "brand": "Casio",
+    "model": "Duro Mariner MDV-106",
+    "price": 69.99,
+    "strap_material": "rubber",
+    "display_type": "analog",
+    "movement_type": "quartz",
+    "specs": {
+      "water_resistance": "200m",
+      "case_thickness": 12,
+      "case_diameter": 44,
+      "case_material": "stainless steel",
+      "movement": "quartz",
+      "crystal": "mineral"
+    },
+    "tags": [
+      "diver",
+      "200m-water-resistant",
+      "rotating-bezel",
+      "tool-watch",
+      "value"
+    ],
+    "images": [
+      "casio-duro-1.jpg",
+      "casio-duro-2.jpg"
+    ],
+    "quantity": 16
+  },
+  {
+    "brand": "Casio",
+    "model": "G-Shock GA-2100-1A1",
+    "price": 119.99,
+    "strap_material": "resin",
+    "display_type": "analog-digital",
+    "movement_type": "quartz",
+    "specs": {
+      "water_resistance": "200m",
+      "case_thickness": 11.8,
+      "case_diameter": 45.4,
+      "case_material": "carbon fiber reinforced resin",
+      "movement": "quartz analog-digital",
+      "crystal": "mineral"
+    },
+    "tags": [
+      "casioak",
+      "carbon-core",
+      "slim-profile",
+      "modern",
+      "analog-digital"
+    ],
+    "images": [
+      "casio-ga2100-1.jpg",
+      "casio-ga2100-2.jpg"
+    ],
+    "quantity": 11
+  },
+  {
+    "brand": "Casio",
+    "model": "Pro Trek PRW-3500T-7",
+    "price": 399.99,
+    "strap_material": "titanium",
+    "display_type": "digital",
+    "movement_type": "solar",
+    "specs": {
+      "water_resistance": "100m",
+      "case_thickness": 13.5,
+      "case_diameter": 47,
+      "case_material": "titanium",
+      "movement": "tough solar quartz",
+      "crystal": "sapphire"
+    },
+    "tags": [
+      "outdoor",
+      "abc-sensors",
+      "solar-powered",
+      "titanium",
+      "tough-solar"
+    ],
+    "images": [
+      "casio-protrek-1.jpg",
+      "casio-protrek-2.jpg"
+    ],
+    "quantity": 8
+  },
+  {
+    "brand": "Casio",
+    "model": "Baby-G BGA-2500-7B",
+    "price": 89.99,
+    "strap_material": "resin",
+    "display_type": "digital",
+    "movement_type": "quartz",
+    "specs": {
+      "water_resistance": "200m",
+      "case_thickness": 14.1,
+      "case_diameter": 43.1,
+      "case_material": "resin",
+      "movement": "quartz digital",
+      "crystal": "mineral"
+    },
+    "tags": [
+      "women",
+      "shock-resistant",
+      "colorful",
+      "200m-water-resistant",
+      "youthful"
+    ],
+    "images": [
+      "casio-babyg-1.jpg",
+      "casio-babyg-2.jpg"
+    ],
+    "quantity": 23
+  },
+  {
+    "brand": "Casio",
+    "model": "Lineage LCW-M170D-1AJF",
+    "price": 249.99,
+    "strap_material": "titanium",
+    "display_type": "analog-digital",
+    "movement_type": "solar",
+    "specs": {
+      "water_resistance": "100m",
+      "case_thickness": 10.7,
+      "case_diameter": 41,
+      "case_material": "titanium",
+      "movement": "solar quartz with radio control",
+      "crystal": "sapphire"
+    },
+    "tags": [
+      "solar-powered",
+      "titanium",
+      "radio-controlled",
+      "multiband-6",
+      "tough-movement"
+    ],
+    "images": [
+      "casio-lineage-1.jpg",
+      "casio-lineage-2.jpg"
+    ],
+    "quantity": 9
+  },
+  {
+    "brand": "Casio",
+    "model": "G-Shock GMW-B5000D-1",
+    "price": 499.99,
+    "strap_material": "steel",
+    "display_type": "digital",
+    "movement_type": "solar",
+    "specs": {
+      "water_resistance": "200m",
+      "case_thickness": 13,
+      "case_diameter": 43.2,
+      "case_material": "stainless steel",
+      "movement": "tough solar quartz with bluetooth",
+      "crystal": "sapphire"
+    },
+    "tags": [
+      "full-metal",
+      "bluetooth",
+      "solar-powered",
+      "premium",
+      "original-design"
+    ],
+    "images": [
+      "casio-gmw-1.jpg",
+      "casio-gmw-2.jpg"
+    ],
+    "quantity": 6
+  },
+  {
+    "brand": "Casio",
+    "model": "MTP-VD01D-2BU",
+    "price": 39.99,
+    "strap_material": "leather",
+    "display_type": "analog",
+    "movement_type": "quartz",
+    "specs": {
+      "water_resistance": "50m",
+      "case_thickness": 8,
+      "case_diameter": 40,
+      "case_material": "stainless steel",
+      "movement": "quartz",
+      "crystal": "mineral"
+    },
+    "tags": [
+      "dress",
+      "minimalist",
+      "affordable",
+      "date-display",
+      "classic"
+    ],
+    "images": [
+      "casio-mtp-1.jpg",
+      "casio-mtp-2.jpg"
+    ],
+    "quantity": 31
+  },
+  {
+    "brand": "Casio",
+    "model": "G-Shock Rangeman GW-9400-1",
+    "price": 329.99,
+    "strap_material": "resin",
+    "display_type": "digital",
+    "movement_type": "solar",
+    "specs": {
+      "water_resistance": "200m",
+      "case_thickness": 17.5,
+      "case_diameter": 53,
+      "case_material": "resin",
+      "movement": "tough solar quartz",
+      "crystal": "mineral"
+    },
+    "tags": [
+      "master-of-g",
+      "abc-sensors",
+      "solar-powered",
+      "mud-resistant",
+      "tough"
+    ],
+    "images": [
+      "casio-rangeman-1.jpg",
+      "casio-rangeman-2.jpg"
+    ],
+    "quantity": 7
+  },
+  {
+    "brand": "Casio",
+    "model": "AE-1200WHD-1A",
+    "price": 24.99,
+    "strap_material": "resin",
+    "display_type": "digital",
+    "movement_type": "quartz",
+    "specs": {
+      "water_resistance": "100m",
+      "case_thickness": 12.5,
+      "case_diameter": 45,
+      "case_material": "resin",
+      "movement": "quartz digital",
+      "crystal": "mineral"
+    },
+    "tags": [
+      "world-time",
+      "multi-function",
+      "affordable",
+      "digital",
+      "retro"
+    ],
+    "images": [
+      "casio-ae1200-1.jpg",
+      "casio-ae1200-2.jpg"
+    ],
+    "quantity": 35
+  },
+  {
+    "brand": "Casio",
+    "model": "G-Shock GA-100-1A1",
+    "price": 89.99,
+    "strap_material": "resin",
+    "display_type": "analog-digital",
+    "movement_type": "quartz",
+    "specs": {
+      "water_resistance": "200m",
+      "case_thickness": 16.1,
+      "case_diameter": 55,
+      "case_material": "resin",
+      "movement": "quartz analog-digital",
+      "crystal": "mineral"
+    },
+    "tags": [
+      "aviator",
+      "large-face",
+      "magnetic-resistant",
+      "bold",
+      "sporty"
+    ],
+    "images": [
+      "casio-ga100-1.jpg",
+      "casio-ga100-2.jpg"
+    ],
+    "quantity": 18
+  },
+  {
+    "brand": "Casio",
+    "model": "LTP-V006L-7BU",
+    "price": 45.99,
+    "strap_material": "leather",
+    "display_type": "analog",
+    "movement_type": "quartz",
+    "specs": {
+      "water_resistance": "30m",
+      "case_thickness": 6,
+      "case_diameter": 34,
+      "case_material": "stainless steel",
+      "movement": "quartz",
+      "crystal": "mineral"
+    },
+    "tags": [
+      "women",
+      "dress",
+      "elegant",
+      "slim",
+      "fashion"
+    ],
+    "images": [
+      "casio-ltp-1.jpg",
+      "casio-ltp-2.jpg"
+    ],
+    "quantity": 26
+  },
+  {
+    "brand": "Casio",
+    "model": "G-Shock GW-B5600-2",
+    "price": 199.99,
+    "strap_material": "resin",
+    "display_type": "digital",
+    "movement_type": "solar",
+    "specs": {
+      "water_resistance": "200m",
+      "case_thickness": 12.5,
+      "case_diameter": 42.8,
+      "case_material": "resin",
+      "movement": "solar quartz with bluetooth",
+      "crystal": "mineral"
+    },
+    "tags": [
+      "solar-powered",
+      "bluetooth",
+      "multiband-6",
+      "classic-square",
+      "modern"
+    ],
+    "images": [
+      "casio-gwb5600-1.jpg",
+      "casio-gwb5600-2.jpg"
+    ],
+    "quantity": 12
+  },
+  {
+    "brand": "Casio",
+    "model": "MQ-24-7B",
+    "price": 16.99,
+    "strap_material": "resin",
+    "display_type": "analog",
+    "movement_type": "quartz",
+    "specs": {
+      "water_resistance": "30m",
+      "case_thickness": 6.5,
+      "case_diameter": 33,
+      "case_material": "resin",
+      "movement": "quartz",
+      "crystal": "acrylic"
+    },
+    "tags": [
+      "ultra-thin",
+      "minimalist",
+      "basic",
+      "lightweight",
+      "essential"
+    ],
+    "images": [
+      "casio-mq24-1.jpg",
+      "casio-mq24-2.jpg"
+    ],
+    "quantity": 42
+  },
+  {
+    "brand": "Casio",
+    "model": "G-Shock GD-350-1B",
+    "price": 129.99,
+    "strap_material": "resin",
+    "display_type": "digital",
+    "movement_type": "quartz",
+    "specs": {
+      "water_resistance": "200m",
+      "case_thickness": 14.9,
+      "case_diameter": 48.9,
+      "case_material": "resin",
+      "movement": "quartz digital",
+      "crystal": "mineral"
+    },
+    "tags": [
+      "vibration-alarm",
+      "countdown-timer",
+      "backlight",
+      "sport",
+      "tactical"
+    ],
+    "images": [
+      "casio-gd350-1.jpg",
+      "casio-gd350-2.jpg"
+    ],
+    "quantity": 15
+  },
+  {
+    "brand": "Casio",
+    "model": "EFV-110D-1AVUDF",
+    "price": 89.99,
+    "strap_material": "steel",
+    "display_type": "analog",
+    "movement_type": "quartz",
+    "specs": {
+      "water_resistance": "100m",
+      "case_thickness": 10.5,
+      "case_diameter": 41,
+      "case_material": "stainless steel",
+      "movement": "quartz",
+      "crystal": "mineral"
+    },
+    "tags": [
+      "diver-style",
+      "100m-water-resistant",
+      "luminous",
+      "sporty",
+      "affordable"
+    ],
+    "images": [
+      "casio-efv110-1.jpg",
+      "casio-efv110-2.jpg"
+    ],
+    "quantity": 17
+  },
+  {
+    "brand": "Casio",
+    "model": "G-Shock G-LIDE GLX-5600-7",
+    "price": 149.99,
+    "strap_material": "resin",
+    "display_type": "digital",
+    "movement_type": "quartz",
+    "specs": {
+      "water_resistance": "200m",
+      "case_thickness": 12.7,
+      "case_diameter": 42.8,
+      "case_material": "resin",
+      "movement": "quartz digital",
+      "crystal": "mineral"
+    },
+    "tags": [
+      "tide-graph",
+      "moon-data",
+      "sport",
+      "beach",
+      "ocean"
+    ],
+    "images": [
+      "casio-glide-1.jpg",
+      "casio-glide-2.jpg"
+    ],
+    "quantity": 10
+  },
+  {
+    "brand": "Seiko",
+    "model": "5 Sports SRPD55",
+    "price": 295.0,
+    "strap_material": "steel",
+    "display_type": "analog",
+    "movement_type": "automatic",
+    "specs": {
+      "water_resistance": "100m",
+      "case_thickness": 13.4,
+      "case_diameter": 42.5,
+      "case_material": "stainless steel",
+      "movement": "Seiko 4R36",
+      "crystal": "Hardlex"
+    },
+    "tags": [
+      "automatic",
+      "diver-style",
+      "day-date",
+      "hacking",
+      "iconic"
+    ],
+    "images": [
+      "seiko-srpd55-1.jpg",
+      "seiko-srpd55-2.jpg"
+    ],
+    "quantity": 14
+  },
+  {
+    "brand": "Seiko",
+    "model": "Prospex Turtle SRPE99",
+    "price": 525.0,
+    "strap_material": "silicone",
+    "display_type": "analog",
+    "movement_type": "automatic",
+    "specs": {
+      "water_resistance": "200m",
+      "case_thickness": 14.4,
+      "case_diameter": 45,
+      "case_material": "stainless steel",
+      "movement": "Seiko 4R36",
+      "crystal": "Hardlex"
+    },
+    "tags": [
+      "professional-diver",
+      "automatic",
+      "200m-water-resistant",
+      "luminous",
+      "iso-certified"
+    ],
+    "images": [
+      "seiko-turtle-1.jpg",
+      "seiko-turtle-2.jpg"
+    ],
+    "quantity": 8
+  },
+  {
+    "brand": "Seiko",
+    "model": "Presage Cocktail Time SRPB41",
+    "price": 425.0,
+    "strap_material": "leather",
+    "display_type": "analog",
+    "movement_type": "automatic",
+    "specs": {
+      "water_resistance": "50m",
+      "case_thickness": 11.8,
+      "case_diameter": 40.5,
+      "case_material": "stainless steel",
+      "movement": "Seiko 4R35",
+      "crystal": "Hardlex"
+    },
+    "tags": [
+      "dress",
+      "automatic",
+      "textured-dial",
+      "exhibition-caseback",
+      "elegant"
+    ],
+    "images": [
+      "seiko-presage-1.jpg",
+      "seiko-presage-2.jpg"
+    ],
+    "quantity": 11
+  },
+  {
+    "brand": "Seiko",
+    "model": "Prospex Samurai SRPB51",
+    "price": 475.0,
+    "strap_material": "steel",
+    "display_type": "analog",
+    "movement_type": "automatic",
+    "specs": {
+      "water_resistance": "200m",
+      "case_thickness": 13.4,
+      "case_diameter": 43.8,
+      "case_material": "stainless steel",
+      "movement": "Seiko 4R35",
+      "crystal": "Hardlex"
+    },
+    "tags": [
+      "diver",
+      "automatic",
+      "angular-design",
+      "200m-water-resistant",
+      "unique"
+    ],
+    "images": [
+      "seiko-samurai-1.jpg",
+      "seiko-samurai-2.jpg"
+    ],
+    "quantity": 9
+  },
+  {
+    "brand": "Seiko",
+    "model": "Solar SNE585",
+    "price": 375.0,
+    "strap_material": "silicone",
+    "display_type": "analog",
+    "movement_type": "solar",
+    "specs": {
+      "water_resistance": "100m",
+      "case_thickness": 12.4,
+      "case_diameter": 44,
+      "case_material": "stainless steel",
+      "movement": "Seiko solar quartz",
+      "crystal": "Hardlex"
+    },
+    "tags": [
+      "solar-powered",
+      "diver",
+      "100m-water-resistant",
+      "eco-friendly",
+      "low-maintenance"
+    ],
+    "images": [
+      "seiko-solar-1.jpg",
+      "seiko-solar-2.jpg"
+    ],
+    "quantity": 12
+  },
+  {
+    "brand": "Seiko",
+    "model": "5 Field Watch SNK809",
+    "price": 99.0,
+    "strap_material": "fabric",
+    "display_type": "analog",
+    "movement_type": "automatic",
+    "specs": {
+      "water_resistance": "30m",
+      "case_thickness": 11,
+      "case_diameter": 37,
+      "case_material": "stainless steel",
+      "movement": "Seiko 7S26",
+      "crystal": "Hardlex"
+    },
+    "tags": [
+      "automatic",
+      "field-watch",
+      "military",
+      "hacking",
+      "value"
+    ],
+    "images": [
+      "seiko-snk809-1.jpg",
+      "seiko-snk809-2.jpg"
+    ],
+    "quantity": 21
+  },
+  {
+    "brand": "Seiko",
+    "model": "Prospex Arnie SNJ025",
+    "price": 595.0,
+    "strap_material": "silicone",
+    "display_type": "analog-digital",
+    "movement_type": "solar",
+    "specs": {
+      "water_resistance": "200m",
+      "case_thickness": 14.4,
+      "case_diameter": 47.5,
+      "case_material": "stainless steel",
+      "movement": "Seiko H851 solar quartz",
+      "crystal": "Hardlex"
+    },
+    "tags": [
+      "hybrid",
+      "solar-powered",
+      "200m-water-resistant",
+      "iconic",
+      "quartz-analog"
+    ],
+    "images": [
+      "seiko-arnie-1.jpg",
+      "seiko-arnie-2.jpg"
+    ],
+    "quantity": 6
+  },
+  {
+    "brand": "Seiko",
+    "model": "Presage Sharp Edged SPB165",
+    "price": 750.0,
+    "strap_material": "leather",
+    "display_type": "analog",
+    "movement_type": "automatic",
+    "specs": {
+      "water_resistance": "100m",
+      "case_thickness": 11.1,
+      "case_diameter": 39.3,
+      "case_material": "stainless steel",
+      "movement": "Seiko 6R35",
+      "crystal": "sapphire"
+    },
+    "tags": [
+      "automatic",
+      "dress",
+      "textured-dial",
+      "elegant",
+      "japanese-aesthetic"
+    ],
+    "images": [
+      "seiko-sharp-1.jpg",
+      "seiko-sharp-2.jpg"
+    ],
+    "quantity": 7
+  },
+  {
+    "brand": "Seiko",
+    "model": "Essentials SUR307",
+    "price": 125.0,
+    "strap_material": "leather",
+    "display_type": "analog",
+    "movement_type": "quartz",
+    "specs": {
+      "water_resistance": "30m",
+      "case_thickness": 8,
+      "case_diameter": 40,
+      "case_material": "stainless steel",
+      "movement": "Seiko quartz",
+      "crystal": "Hardlex"
+    },
+    "tags": [
+      "quartz",
+      "dress",
+      "slim",
+      "date",
+      "affordable"
+    ],
+    "images": [
+      "seiko-sur307-1.jpg",
+      "seiko-sur307-2.jpg"
+    ],
+    "quantity": 25
+  },
+  {
+    "brand": "Seiko",
+    "model": "Prospex Speedtimer SSC813",
+    "price": 675.0,
+    "strap_material": "steel",
+    "display_type": "analog",
+    "movement_type": "solar",
+    "specs": {
+      "water_resistance": "100m",
+      "case_thickness": 13.3,
+      "case_diameter": 39,
+      "case_material": "stainless steel",
+      "movement": "Seiko V192 solar chronograph",
+      "crystal": "sapphire"
+    },
+    "tags": [
+      "solar-chronograph",
+      "panda-dial",
+      "sport",
+      "tachymeter",
+      "precision"
+    ],
+    "images": [
+      "seiko-speedtimer-1.jpg",
+      "seiko-speedtimer-2.jpg"
+    ],
+    "quantity": 5
+  },
+  {
+    "brand": "Seiko",
+    "model": "5 GMT SSK001",
+    "price": 475.0,
+    "strap_material": "steel",
+    "display_type": "analog",
+    "movement_type": "automatic",
+    "specs": {
+      "water_resistance": "100m",
+      "case_thickness": 13.6,
+      "case_diameter": 42.5,
+      "case_material": "stainless steel",
+      "movement": "Seiko 4R34 GMT",
+      "crystal": "Hardlex"
+    },
+    "tags": [
+      "automatic",
+      "gmt",
+      "travel",
+      "dual-time",
+      "value"
+    ],
+    "images": [
+      "seiko-gmt-1.jpg",
+      "seiko-gmt-2.jpg"
+    ],
+    "quantity": 8
+  },
+  {
+    "brand": "Seiko",
+    "model": "Premier SSA346",
+    "price": 395.0,
+    "strap_material": "leather",
+    "display_type": "analog",
+    "movement_type": "automatic",
+    "specs": {
+      "water_resistance": "50m",
+      "case_thickness": 11.8,
+      "case_diameter": 40.5,
+      "case_material": "stainless steel",
+      "movement": "Seiko 4R39",
+      "crystal": "Hardlex"
+    },
+    "tags": [
+      "open-heart",
+      "automatic",
+      "dress",
+      "skeleton-dial",
+      "elegant"
+    ],
+    "images": [
+      "seiko-premier-1.jpg",
+      "seiko-premier-2.jpg"
+    ],
+    "quantity": 10
+  },
+  {
+    "brand": "Seiko",
+    "model": "Prospex Land Tortoise SRPH13",
+    "price": 550.0,
+    "strap_material": "silicone",
+    "display_type": "analog",
+    "movement_type": "automatic",
+    "specs": {
+      "water_resistance": "200m",
+      "case_thickness": 12.9,
+      "case_diameter": 42.7,
+      "case_material": "stainless steel",
+      "movement": "Seiko 6R35",
+      "crystal": "sapphire"
+    },
+    "tags": [
+      "field-watch",
+      "automatic",
+      "adventure",
+      "200m-water-resistant",
+      "rugged"
+    ],
+    "images": [
+      "seiko-tortoise-1.jpg",
+      "seiko-tortoise-2.jpg"
+    ],
+    "quantity": 7
+  },
+  {
+    "brand": "Seiko",
+    "model": "Lukia SSVW175",
+    "price": 320.0,
+    "strap_material": "steel",
+    "display_type": "analog",
+    "movement_type": "solar",
+    "specs": {
+      "water_resistance": "100m",
+      "case_thickness": 10.2,
+      "case_diameter": 33.8,
+      "case_material": "stainless steel",
+      "movement": "Seiko solar quartz",
+      "crystal": "sapphire"
+    },
+    "tags": [
+      "women",
+      "solar-powered",
+      "elegant",
+      "mother-of-pearl",
+      "dress"
+    ],
+    "images": [
+      "seiko-lukia-1.jpg",
+      "seiko-lukia-2.jpg"
+    ],
+    "quantity": 15
+  },
+  {
+    "brand": "Seiko",
+    "model": "5 Sports SRPE61",
+    "price": 275.0,
+    "strap_material": "steel",
+    "display_type": "analog",
+    "movement_type": "automatic",
+    "specs": {
+      "water_resistance": "100m",
+      "case_thickness": 11.5,
+      "case_diameter": 40,
+      "case_material": "stainless steel",
+      "movement": "Seiko 4R36",
+      "crystal": "Hardlex"
+    },
+    "tags": [
+      "automatic",
+      "dresskx",
+      "versatile",
+      "everyday",
+      "hacking"
+    ],
+    "images": [
+      "seiko-srpe61-1.jpg",
+      "seiko-srpe61-2.jpg"
+    ],
+    "quantity": 16
+  },
+  {
+    "brand": "Citizen",
+    "model": "Eco-Drive AW1361-10H",
+    "price": 145.0,
+    "strap_material": "steel",
+    "display_type": "analog",
+    "movement_type": "solar",
+    "specs": {
+      "water_resistance": "100m",
+      "case_thickness": 9,
+      "case_diameter": 41,
+      "case_material": "stainless steel",
+      "movement": "Citizen Eco-Drive",
+      "crystal": "mineral"
+    },
+    "tags": [
+      "solar-powered",
+      "eco-drive",
+      "perpetual-calendar",
+      "day-date",
+      "dress"
+    ],
+    "images": [
+      "citizen-aw1361-1.jpg",
+      "citizen-aw1361-2.jpg"
+    ],
+    "quantity": 17
+  },
+  {
+    "brand": "Citizen",
+    "model": "Promaster Diver BN0150-28E",
+    "price": 295.0,
+    "strap_material": "rubber",
+    "display_type": "analog",
+    "movement_type": "quartz",
+    "specs": {
+      "water_resistance": "200m",
+      "case_thickness": 12.3,
+      "case_diameter": 44,
+      "case_material": "stainless steel",
+      "movement": "Citizen quartz",
+      "crystal": "mineral"
+    },
+    "tags": [
+      "diver",
+      "professional",
+      "200m-water-resistant",
+      "luminous",
+      "iso-certified"
+    ],
+    "images": [
+      "citizen-promaster-1.jpg",
+      "citizen-promaster-2.jpg"
+    ],
+    "quantity": 12
+  },
+  {
+    "brand": "Citizen",
+    "model": "Chandler Eco-Drive BM8180-03E",
+    "price": 165.0,
+    "strap_material": "fabric",
+    "display_type": "analog",
+    "movement_type": "solar",
+    "specs": {
+      "water_resistance": "100m",
+      "case_thickness": 9,
+      "case_diameter": 37,
+      "case_material": "stainless steel",
+      "movement": "Citizen Eco-Drive",
+      "crystal": "mineral"
+    },
+    "tags": [
+      "field-watch",
+      "military",
+      "solar-powered",
+      "minimalist",
+      "outdoor"
+    ],
+    "images": [
+      "citizen-chandler-1.jpg",
+      "citizen-chandler-2.jpg"
+    ],
+    "quantity": 19
+  },
+  {
+    "brand": "Citizen",
+    "model": "Eco-Drive Garrison CA7000-00L",
+    "price": 225.0,
+    "strap_material": "fabric",
+    "display_type": "analog",
+    "movement_type": "solar",
+    "specs": {
+      "water_resistance": "100m",
+      "case_thickness": 11,
+      "case_diameter": 42,
+      "case_material": "stainless steel",
+      "movement": "Citizen Eco-Drive",
+      "crystal": "mineral"
+    },
+    "tags": [
+      "field-watch",
+      "solar-powered",
+      "nylon-strap",
+      "rugged",
+      "adventure"
+    ],
+    "images": [
+      "citizen-garrison-1.jpg",
+      "citizen-garrison-2.jpg"
+    ],
+    "quantity": 14
+  },
+  {
+    "brand": "Citizen",
+    "model": "Eco-Drive Brycen Chronograph AT0220-01E",
+    "price": 275.0,
+    "strap_material": "steel",
+    "display_type": "analog",
+    "movement_type": "solar",
+    "specs": {
+      "water_resistance": "100m",
+      "case_thickness": 12.5,
+      "case_diameter": 44,
+      "case_material": "stainless steel",
+      "movement": "Citizen Eco-Drive chronograph",
+      "crystal": "mineral"
+    },
+    "tags": [
+      "chronograph",
+      "sporty",
+      "solar-powered",
+      "tachymeter",
+      "aviator"
+    ],
+    "images": [
+      "citizen-brycen-1.jpg",
+      "citizen-brycen-2.jpg"
+    ],
+    "quantity": 11
+  },
+  {
+    "brand": "Citizen",
+    "model": "Promaster Skyhawk A-T JY8078-01L",
+    "price": 495.0,
+    "strap_material": "steel",
+    "display_type": "analog-digital",
+    "movement_type": "solar",
+    "specs": {
+      "water_resistance": "200m",
+      "case_thickness": 13.5,
+      "case_diameter": 46,
+      "case_material": "stainless steel",
+      "movement": "Citizen Eco-Drive radio controlled",
+      "crystal": "mineral"
+    },
+    "tags": [
+      "aviator",
+      "radio-controlled",
+      "eco-drive",
+      "multiband-6",
+      "world-time"
+    ],
+    "images": [
+      "citizen-skyhawk-1.jpg",
+      "citizen-skyhawk-2.jpg"
+    ],
+    "quantity": 7
+  },
+  {
+    "brand": "Citizen",
+    "model": "Eco-Drive Corso BM7420-53L",
+    "price": 195.0,
+    "strap_material": "leather",
+    "display_type": "analog",
+    "movement_type": "solar",
+    "specs": {
+      "water_resistance": "50m",
+      "case_thickness": 7,
+      "case_diameter": 40,
+      "case_material": "stainless steel",
+      "movement": "Citizen Eco-Drive",
+      "crystal": "mineral"
+    },
+    "tags": [
+      "dress",
+      "slim",
+      "solar-powered",
+      "minimalist",
+      "elegant"
+    ],
+    "images": [
+      "citizen-corso-1.jpg",
+      "citizen-corso-2.jpg"
+    ],
+    "quantity": 20
+  },
+  {
+    "brand": "Citizen",
+    "model": "Promaster Land PMD56-2951",
+    "price": 850.0,
+    "strap_material": "titanium",
+    "display_type": "analog",
+    "movement_type": "solar",
+    "specs": {
+      "water_resistance": "100m",
+      "case_thickness": 11.2,
+      "case_diameter": 41,
+      "case_material": "titanium",
+      "movement": "Citizen Eco-Drive radio controlled",
+      "crystal": "sapphire"
+    },
+    "tags": [
+      "field-watch",
+      "titanium",
+      "radio-controlled",
+      "sapphire-crystal",
+      "satellite-wave"
+    ],
+    "images": [
+      "citizen-promaster-land-1.jpg",
+      "citizen-promaster-land-2.jpg"
+    ],
+    "quantity": 5
+  },
+  {
+    "brand": "Citizen",
+    "model": "Eco-Drive Silhouette Crystal FE7064-51W",
+    "price": 325.0,
+    "strap_material": "steel",
+    "display_type": "analog",
+    "movement_type": "solar",
+    "specs": {
+      "water_resistance": "50m",
+      "case_thickness": 8,
+      "case_diameter": 30,
+      "case_material": "stainless steel",
+      "movement": "Citizen Eco-Drive",
+      "crystal": "mineral"
+    },
+    "tags": [
+      "women",
+      "dress",
+      "mother-of-pearl",
+      "diamond-markers",
+      "elegant"
+    ],
+    "images": [
+      "citizen-silhouette-1.jpg",
+      "citizen-silhouette-2.jpg"
+    ],
+    "quantity": 16
+  },
+  {
+    "brand": "Citizen",
+    "model": "Eco-Drive Weekender AW1158-08L",
+    "price": 175.0,
+    "strap_material": "fabric",
+    "display_type": "analog",
+    "movement_type": "solar",
+    "specs": {
+      "water_resistance": "100m",
+      "case_thickness": 10,
+      "case_diameter": 41,
+      "case_material": "stainless steel",
+      "movement": "Citizen Eco-Drive",
+      "crystal": "mineral"
+    },
+    "tags": [
+      "casual",
+      "weekender",
+      "solar-powered",
+      "canvas-strap",
+      "versatile"
+    ],
+    "images": [
+      "citizen-weekender-1.jpg",
+      "citizen-weekender-2.jpg"
+    ],
+    "quantity": 21
+  },
+  {
+    "brand": "Citizen",
+    "model": "Eco-Drive Royal Marines Commando CA0710-82E",
+    "price": 395.0,
+    "strap_material": "fabric",
+    "display_type": "analog",
+    "movement_type": "solar",
+    "specs": {
+      "water_resistance": "100m",
+      "case_thickness": 12,
+      "case_diameter": 44,
+      "case_material": "stainless steel",
+      "movement": "Citizen Eco-Drive",
+      "crystal": "mineral"
+    },
+    "tags": [
+      "military",
+      "tactical",
+      "solar-powered",
+      "nato-strap",
+      "rugged"
+    ],
+    "images": [
+      "citizen-commando-1.jpg",
+      "citizen-commando-2.jpg"
+    ],
+    "quantity": 9
+  },
+  {
+    "brand": "Citizen",
+    "model": "Eco-Drive Avion AW0081-07L",
+    "price": 245.0,
+    "strap_material": "leather",
+    "display_type": "analog",
+    "movement_type": "solar",
+    "specs": {
+      "water_resistance": "100m",
+      "case_thickness": 11,
+      "case_diameter": 44,
+      "case_material": "stainless steel",
+      "movement": "Citizen Eco-Drive",
+      "crystal": "mineral"
+    },
+    "tags": [
+      "aviator",
+      "solar-powered",
+      "slide-rule-bezel",
+      "pilot",
+      "heritage"
+    ],
+    "images": [
+      "citizen-avion-1.jpg",
+      "citizen-avion-2.jpg"
+    ],
+    "quantity": 13
+  },
+  {
+    "brand": "Citizen",
+    "model": "Eco-Drive Calendrier BU2055-08E",
+    "price": 195.0,
+    "strap_material": "steel",
+    "display_type": "analog",
+    "movement_type": "solar",
+    "specs": {
+      "water_resistance": "100m",
+      "case_thickness": 9,
+      "case_diameter": 41,
+      "case_material": "stainless steel",
+      "movement": "Citizen Eco-Drive",
+      "crystal": "sapphire"
+    },
+    "tags": [
+      "dress",
+      "solar-powered",
+      "day-date",
+      "sapphire-crystal",
+      "business"
+    ],
+    "images": [
+      "citizen-calendrier-1.jpg",
+      "citizen-calendrier-2.jpg"
+    ],
+    "quantity": 18
+  },
+  {
+    "brand": "Citizen",
+    "model": "Promaster Aqualand BN2031-09L",
+    "price": 425.0,
+    "strap_material": "silicone",
+    "display_type": "analog-digital",
+    "movement_type": "quartz",
+    "specs": {
+      "water_resistance": "200m",
+      "case_thickness": 15.5,
+      "case_diameter": 47,
+      "case_material": "stainless steel",
+      "movement": "Citizen quartz",
+      "crystal": "mineral"
+    },
+    "tags": [
+      "diver",
+      "professional",
+      "depth-sensor",
+      "200m-water-resistant",
+      "tool-watch"
+    ],
+    "images": [
+      "citizen-aqualand-1.jpg",
+      "citizen-aqualand-2.jpg"
+    ],
+    "quantity": 8
+  },
+  {
+    "brand": "Citizen",
+    "model": "Eco-Drive Stella FE1113-01A",
+    "price": 275.0,
+    "strap_material": "steel",
+    "display_type": "analog",
+    "movement_type": "solar",
+    "specs": {
+      "water_resistance": "50m",
+      "case_thickness": 8,
+      "case_diameter": 32,
+      "case_material": "stainless steel",
+      "movement": "Citizen Eco-Drive",
+      "crystal": "mineral"
+    },
+    "tags": [
+      "women",
+      "dress",
+      "diamond-bezel",
+      "solar-powered",
+      "sparkling"
+    ],
+    "images": [
+      "citizen-stella-1.jpg",
+      "citizen-stella-2.jpg"
+    ],
+    "quantity": 15
+  },
+  {
+    "brand": "Orient",
+    "model": "Bambino Version 4 FAC00009W0",
+    "price": 179.0,
+    "strap_material": "leather",
+    "display_type": "analog",
+    "movement_type": "automatic",
+    "specs": {
+      "water_resistance": "30m",
+      "case_thickness": 11.8,
+      "case_diameter": 40.5,
+      "case_material": "stainless steel",
+      "movement": "Orient F6724",
+      "crystal": "domed mineral"
+    },
+    "tags": [
+      "dress",
+      "automatic",
+      "domed-crystal",
+      "classic",
+      "affordable-luxury"
+    ],
+    "images": [
+      "orient-bambino-1.jpg",
+      "orient-bambino-2.jpg"
+    ],
+    "quantity": 17
+  },
+  {
+    "brand": "Orient",
+    "model": "Kamasu RA-AA0001L19A",
+    "price": 299.0,
+    "strap_material": "steel",
+    "display_type": "analog",
+    "movement_type": "automatic",
+    "specs": {
+      "water_resistance": "200m",
+      "case_thickness": 12.8,
+      "case_diameter": 41.8,
+      "case_material": "stainless steel",
+      "movement": "Orient F6922",
+      "crystal": "sapphire"
+    },
+    "tags": [
+      "diver",
+      "automatic",
+      "sapphire-crystal",
+      "luminous",
+      "200m-water-resistant"
+    ],
+    "images": [
+      "orient-kamasu-1.jpg",
+      "orient-kamasu-2.jpg"
+    ],
+    "quantity": 12
+  },
+  {
+    "brand": "Orient",
+    "model": "Mako II FAA02005D9",
+    "price": 225.0,
+    "strap_material": "steel",
+    "display_type": "analog",
+    "movement_type": "automatic",
+    "specs": {
+      "water_resistance": "200m",
+      "case_thickness": 13,
+      "case_diameter": 41.5,
+      "case_material": "stainless steel",
+      "movement": "Orient F6922",
+      "crystal": "mineral"
+    },
+    "tags": [
+      "diver",
+      "automatic",
+      "day-date",
+      "rotating-bezel",
+      "value"
+    ],
+    "images": [
+      "orient-mako-1.jpg",
+      "orient-mako-2.jpg"
+    ],
+    "quantity": 15
+  },
+  {
+    "brand": "Orient",
+    "model": "Ray II FAA02009B9",
+    "price": 215.0,
+    "strap_material": "steel",
+    "display_type": "analog",
+    "movement_type": "automatic",
+    "specs": {
+      "water_resistance": "200m",
+      "case_thickness": 13,
+      "case_diameter": 41.5,
+      "case_material": "stainless steel",
+      "movement": "Orient F6922",
+      "crystal": "mineral"
+    },
+    "tags": [
+      "diver",
+      "automatic",
+      "luminous",
+      "200m-water-resistant",
+      "tool-watch"
+    ],
+    "images": [
+      "orient-ray-1.jpg",
+      "orient-ray-2.jpg"
+    ],
+    "quantity": 14
+  },
+  {
+    "brand": "Orient",
+    "model": "Defender 2 ER2F001W",
+    "price": 165.0,
+    "strap_material": "fabric",
+    "display_type": "analog",
+    "movement_type": "automatic",
+    "specs": {
+      "water_resistance": "100m",
+      "case_thickness": 12,
+      "case_diameter": 42,
+      "case_material": "stainless steel",
+      "movement": "Orient F6722",
+      "crystal": "mineral"
+    },
+    "tags": [
+      "field-watch",
+      "automatic",
+      "24-hour-scale",
+      "rugged",
+      "outdoor"
+    ],
+    "images": [
+      "orient-defender-1.jpg",
+      "orient-defender-2.jpg"
+    ],
+    "quantity": 16
+  },
+  {
+    "brand": "Orient",
+    "model": "Sun and Moon FAK00009W0",
+    "price": 345.0,
+    "strap_material": "leather",
+    "display_type": "analog",
+    "movement_type": "automatic",
+    "specs": {
+      "water_resistance": "50m",
+      "case_thickness": 14,
+      "case_diameter": 42.5,
+      "case_material": "stainless steel",
+      "movement": "Orient F6B24",
+      "crystal": "mineral"
+    },
+    "tags": [
+      "automatic",
+      "complication",
+      "moon-phase",
+      "elegant",
+      "dress"
+    ],
+    "images": [
+      "orient-sunmoon-1.jpg",
+      "orient-sunmoon-2.jpg"
+    ],
+    "quantity": 8
+  },
+  {
+    "brand": "Orient",
+    "model": "Star Classic RE-AU0006L00B",
+    "price": 850.0,
+    "strap_material": "leather",
+    "display_type": "analog",
+    "movement_type": "automatic",
+    "specs": {
+      "water_resistance": "50m",
+      "case_thickness": 12.8,
+      "case_diameter": 40.7,
+      "case_material": "stainless steel",
+      "movement": "Orient 40N5A",
+      "crystal": "sapphire"
+    },
+    "tags": [
+      "premium",
+      "automatic",
+      "power-reserve",
+      "sapphire-crystal",
+      "elegant"
+    ],
+    "images": [
+      "orient-star-1.jpg",
+      "orient-star-2.jpg"
+    ],
+    "quantity": 5
+  },
+  {
+    "brand": "Orient",
+    "model": "Maestro EMT7S002W",
+    "price": 135.0,
+    "strap_material": "leather",
+    "display_type": "analog",
+    "movement_type": "quartz",
+    "specs": {
+      "water_resistance": "30m",
+      "case_thickness": 8,
+      "case_diameter": 39,
+      "case_material": "stainless steel",
+      "movement": "Orient quartz",
+      "crystal": "mineral"
+    },
+    "tags": [
+      "quartz",
+      "dress",
+      "slim",
+      "minimalist",
+      "affordable"
+    ],
+    "images": [
+      "orient-maestro-1.jpg",
+      "orient-maestro-2.jpg"
+    ],
+    "quantity": 22
+  },
+  {
+    "brand": "Orient",
+    "model": "Polaris GMT ER2A004B",
+    "price": 495.0,
+    "strap_material": "leather",
+    "display_type": "analog",
+    "movement_type": "automatic",
+    "specs": {
+      "water_resistance": "100m",
+      "case_thickness": 13.5,
+      "case_diameter": 42,
+      "case_material": "stainless steel",
+      "movement": "Orient 40P51",
+      "crystal": "sapphire"
+    },
+    "tags": [
+      "automatic",
+      "gmt",
+      "true-gmt",
+      "travel",
+      "dual-time"
+    ],
+    "images": [
+      "orient-polaris-1.jpg",
+      "orient-polaris-2.jpg"
+    ],
+    "quantity": 6
+  },
+  {
+    "brand": "Orient",
+    "model": "Triton RA-AC0H07L10A",
+    "price": 695.0,
+    "strap_material": "steel",
+    "display_type": "analog",
+    "movement_type": "automatic",
+    "specs": {
+      "water_resistance": "200m",
+      "case_thickness": 14,
+      "case_diameter": 44,
+      "case_material": "stainless steel",
+      "movement": "Orient F6N47",
+      "crystal": "sapphire"
+    },
+    "tags": [
+      "diver",
+      "automatic",
+      "professional",
+      "300m-water-resistant",
+      "helium-escape-valve"
+    ],
+    "images": [
+      "orient-triton-1.jpg",
+      "orient-triton-2.jpg"
+    ],
+    "quantity": 4
+  },
+  {
+    "brand": "Orient",
+    "model": "Bambino Small Seconds FAC08004D0",
+    "price": 195.0,
+    "strap_material": "leather",
+    "display_type": "analog",
+    "movement_type": "automatic",
+    "specs": {
+      "water_resistance": "30m",
+      "case_thickness": 11.9,
+      "case_diameter": 40.5,
+      "case_material": "stainless steel",
+      "movement": "Orient F6T22",
+      "crystal": "domed mineral"
+    },
+    "tags": [
+      "dress",
+      "automatic",
+      "small-seconds",
+      "classic",
+      "vintage"
+    ],
+    "images": [
+      "orient-bambino-ss-1.jpg",
+      "orient-bambino-ss-2.jpg"
+    ],
+    "quantity": 13
+  },
+  {
+    "brand": "Orient",
+    "model": "Kanno FET0T002S0",
+    "price": 185.0,
+    "strap_material": "steel",
+    "display_type": "analog",
+    "movement_type": "automatic",
+    "specs": {
+      "water_resistance": "100m",
+      "case_thickness": 13,
+      "case_diameter": 44,
+      "case_material": "stainless steel",
+      "movement": "Orient F6722",
+      "crystal": "mineral"
+    },
+    "tags": [
+      "diver",
+      "automatic",
+      "modern",
+      "sport",
+      "affordable"
+    ],
+    "images": [
+      "orient-kanno-1.jpg",
+      "orient-kanno-2.jpg"
+    ],
+    "quantity": 11
+  }
+]

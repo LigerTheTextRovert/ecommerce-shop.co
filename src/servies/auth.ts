@@ -1,6 +1,6 @@
 import type { AppDispatch } from "../features/store";
 import { login, logout } from "../features/auth/authSlice";
-import { supabase } from "../db/supabase";
+import { supabase } from "../servies/supabase";
 
 export const loginUser =
   (email: string, password: string) => async (dispatch: AppDispatch) => {

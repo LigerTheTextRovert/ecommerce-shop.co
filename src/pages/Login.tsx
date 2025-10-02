@@ -1,4 +1,4 @@
-import { supabase } from "../db/supabase";
+import { supabase } from "../servies/supabase";
 import { useNavigate } from "react-router-dom";
 import { useState } from "react";
 import { useDispatch } from "react-redux";
@@ -8,7 +8,7 @@ import type { AppDispatch } from "../features/store";
 import { Link } from "react-router-dom";
 import { Gmail } from "../components/icons/Gmail";
 import Modal from "../components/ui/Modal";
-import { loginUserWithOAuth } from "../db/auth";
+import { loginUserWithOAuth } from "../servies/auth";
 
 export default function Login() {
   const [email, setEmail] = useState<string>("");
