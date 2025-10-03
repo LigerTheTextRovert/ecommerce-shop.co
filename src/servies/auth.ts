@@ -15,6 +15,7 @@ export const loginUser =
         login({
           userName: data.user.email ?? "Unknown",
           session: data.session,
+          role: "customer",
         }),
       );
     }
@@ -27,26 +28,11 @@ export const loginUserWithOAuth = () => {
   });
 };
 
-export const signupUser =
-  (email: string, password: string) => async (dispatch: AppDispatch) => {
-    const { data, error } = await supabase.auth.signUp({
-      email,
-      password,
-    });
-    if (error) throw error;
-
-    // Optional: auto-login after signup
-    if (data.user && data.session) {
-      dispatch(
-        login({
-          userName: data.user.email ?? "Unknown",
-          session: data.session.access_token,
-        }),
-      );
-    }
-  };
-
 export const logoutUser = () => async (dispatch: AppDispatch) => {
   await supabase.auth.signOut();
   dispatch(logout());
+};
+
+export const incertNewCustomer = async () => {
+  // const {data} = await supabase.select()
 };

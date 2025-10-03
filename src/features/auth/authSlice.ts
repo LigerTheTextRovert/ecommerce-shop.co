@@ -12,11 +12,13 @@ interface AuthState {
   isUserAuthenticated: boolean;
   username: string | null;
   session: Session | null;
+  role: string | null;
 }
 const initialState: AuthState = {
   isUserAuthenticated: false,
   session: null,
   username: null,
+  role: null,
 };
 
 const authSlice = createSlice({
@@ -25,11 +27,16 @@ const authSlice = createSlice({
   reducers: {
     login: (
       state,
-      action: PayloadAction<{ userName: string; session: Session }>,
+      action: PayloadAction<{
+        userName: string;
+        session: Session;
+        role: string;
+      }>,
     ) => {
       state.isUserAuthenticated = true;
       state.username = action.payload.userName;
       state.session = action.payload.session;
+      state.role = action.payload.role;
     },
     logout: (state) => {
       state.isUserAuthenticated = false;

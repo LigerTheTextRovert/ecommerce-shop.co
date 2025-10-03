@@ -4,11 +4,13 @@ import Footer from "../components/layout/Footer";
 import Header from "../components/layout/Header";
 import { Done } from "../components/icons/Done";
 import image from "../../src/assets/buyer-image.jpg";
+import ReviewsSection from "../components/layout/ReviewsSection";
 
 export default function Homepage() {
   return (
     <div className="w-full">
       <Header />
+
       <div className="flex flex-col md:flex-row max-w-7xl mx-auto my-8">
         <div className="bg-secondary w-[90%] mx-auto md:w-1/2 p-8 md:rounded-tl-lg md:rounded-bl-lg flex flex-col items-start justify-between">
           <div>
@@ -46,6 +48,9 @@ export default function Homepage() {
           />
         </div>
       </div>
+
+      <ReviewsSection />
+
       <Footer />
     </div>
   );

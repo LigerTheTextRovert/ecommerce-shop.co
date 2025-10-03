@@ -1,4 +1,6 @@
-interface ItemProps { }
-export default function Item(props: ItemProps) {
+interface ItemProps {
+  itemName: string;
+}
+export default function Item() {
   return <div></div>;
 }

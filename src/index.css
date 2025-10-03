@@ -1,11 +1,49 @@
 @import "tailwindcss";
 
+@layer base {
+
+  *,
+  ::before,
+  ::after {
+    box-sizing: border-box;
+  }
+}
+
 @theme {
-  --clr-1: #37353e;
-  --clr-2: #44444e;
-  --clr-3: #715a5a;
-  --clr-4: #d3dad9;
-  --clr-bg: #fffafa;
+  /* main brand / primary text */
+  --color-primary: #37353e;
+  /* secondary text / surfaces */
+  --color-secondary: #44444e;
+  /* accent or highlight */
+  --color-accent: #715a5a;
+  /* muted/disabled/line */
+  --color-muted: #d3dad9;
+  /* app background */
+  --color-bg: #fffafa;
+}
+
+@keyframes slideDownSmooth {
+  0% {
+    opacity: 0;
+    transform: translateY(-12px);
+  }
+
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes slideUpSmooth {
+  0% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+
+  100% {
+    opacity: 0;
+    transform: translateY(-12px);
+  }
 }
 
 body {

@@ -1,7 +1,7 @@
 {
   "name": "ecommerce-shop.co",
   "private": true,
-  "version": "0.0.0",
+  "version": "0.1.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -13,6 +13,7 @@
     "@reduxjs/toolkit": "^2.9.0",
     "@supabase/supabase-js": "^2.57.4",
     "@tailwindcss/vite": "^4.1.13",
+    "lucide-react": "^0.544.0",
     "react": "^19.1.1",
     "react-dom": "^19.1.1",
     "react-redux": "^9.2.0",
