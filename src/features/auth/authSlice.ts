@@ -12,13 +12,13 @@ interface AuthState {
   isUserAuthenticated: boolean;
   username: string | null;
   session: Session | null;
-  role: string | null;
+  role: string | undefined;
 }
 const initialState: AuthState = {
   isUserAuthenticated: false,
   session: null,
   username: null,
-  role: null,
+  role: "",
 };
 
 const authSlice = createSlice({
@@ -30,7 +30,7 @@ const authSlice = createSlice({
       action: PayloadAction<{
         userName: string;
         session: Session;
-        role: string;
+        role: string | undefined;
       }>,
     ) => {
       state.isUserAuthenticated = true;

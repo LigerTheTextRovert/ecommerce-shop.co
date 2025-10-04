@@ -8,6 +8,8 @@ import VerifyOtp from "./pages/Verify";
 
 // import { supabase } from "./servies/supabase";
 import { handleAddWatches } from "./servies/handleAddData";
+import { supabase } from "./servies/supabase";
+import { RouteProtection } from "./servies/RouteProtection";
 
 function App() {
   useEffect(() => {
@@ -33,13 +35,6 @@ function App() {
     //   console.log(session);
     // };
     // fetchUserInfo();
-
-    //    So the approach is to first handle the auth with supabase's users table,
-    // then incert a row to our own users table which include the business logic code.
-    //
-    //   In simple term:  User signs up → gets added to auth.users.
-    // You listen to the signup event (e.g. via a Supabase function, webhook, or after-login logic) → insert a corresponding row in your users table with default values.
-    // Now you manage your users with all the custom fields without messing with the auth system.
   }, []);
 
   const router = createBrowserRouter([
@@ -56,7 +51,11 @@ function App() {
       element: <VerifyOtp />,
     },
     {
-      element: <DefaultLayout />,
+      element: (
+        <RouteProtection>
+          <DefaultLayout />
+        </RouteProtection>
+      ),
       children: [
         {
           path: "/",
