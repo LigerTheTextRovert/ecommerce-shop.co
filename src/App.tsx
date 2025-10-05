@@ -6,9 +6,7 @@ import Login from "./pages/Login";
 import Signup from "./pages/Signup";
 import VerifyOtp from "./pages/Verify";
 
-// import { supabase } from "./servies/supabase";
 import { handleAddWatches } from "./servies/handleAddData";
-import { supabase } from "./servies/supabase";
 import { RouteProtection } from "./servies/RouteProtection";
 
 function App() {
