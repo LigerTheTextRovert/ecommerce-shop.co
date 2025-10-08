@@ -7,55 +7,38 @@ function AuthListener() {
   const dispatch = useDispatch();
 
   useEffect(() => {
-    // 1️⃣ Check if there is an existing session on load
+    // 1️⃣ Check existing session on mount
     const checkSession = async () => {
-      const { data } = await supabase.auth.getSession();
+      try {
+        const { data, error } = await supabase.auth.getSession();
+        if (error) throw error;
 
-      if (data.session?.user) {
-        dispatch(
-          login({
-            userName:
-              data.session.user.user_metadata.full_name ||
-              data.session.user.email ||
-              "",
-            session: {
-              access_token: data.session.access_token,
-              refresh_token: data.session.refresh_token,
-              expires_in: data.session.expires_in,
-            },
-          }),
-        );
-      } else {
+        if (data.session?.user) {
+          dispatch(login());
+        } else {
+          dispatch(logout());
+        }
+      } catch (error) {
+        console.error("Error checking session:", error);
         dispatch(logout());
       }
     };
 
     checkSession();
 
-    // 2️⃣ Listen to auth changes (login/logout)
-    const { data: subscription } = supabase.auth.onAuthStateChange(
-      (event, session) => {
-        if (session?.user) {
-          dispatch(
-            login({
-              userName:
-                session.user.user_metadata.full_name ||
-                session.user.email ||
-                "",
-              session: {
-                access_token: session.access_token,
-                refresh_token: session.refresh_token,
-                expires_in: session.expires_in,
-              },
-            }),
-          );
-        } else {
-          dispatch(logout());
-        }
-      },
-    );
+    // 2️⃣ Listen for future auth state changes
+    const {
+      data: { subscription },
+    } = supabase.auth.onAuthStateChange((_event, session) => {
+      if (session?.user) {
+        dispatch(login());
+      } else {
+        dispatch(logout());
+      }
+    });
 
-    return () => subscription.subscription.unsubscribe();
+    // 3️⃣ Clean up listener on unmount
+    return () => subscription.unsubscribe();
   }, [dispatch]);
 
   return null;

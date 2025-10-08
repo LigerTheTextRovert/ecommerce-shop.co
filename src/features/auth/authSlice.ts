@@ -1,57 +1,124 @@
-import { createSlice, type PayloadAction } from "@reduxjs/toolkit";
+import {
+  createAsyncThunk,
+  createSlice,
+  type PayloadAction,
+} from "@reduxjs/toolkit";
+import { supabase } from "../../servies/supabase";
+import type { Session, User } from "@supabase/supabase-js";
+import { PawPrint } from "lucide-react";
 
-interface Session {
-  access_token: string;
-  refresh_token: string;
-  expires_in: number;
-  token_type?: string;
-  user?: any;
-}
+// State Type
 
 interface AuthState {
-  isUserAuthenticated: boolean;
-  username: string | null;
+  isUserAuthenticated: boolean | null;
+  user: User | null;
   session: Session | null;
-  role: string | undefined;
+  isLoading: boolean;
+  error: string | null;
 }
+
 const initialState: AuthState = {
-  isUserAuthenticated: false,
+  isUserAuthenticated: null,
+  user: null,
   session: null,
-  username: null,
-  role: "",
+  isLoading: false,
+  error: null,
 };
+
+// Common Auth Payload
+type AuthPayload = {
+  user: User | null;
+  session: Session | null;
+};
+
+export const loginWithCredentials = createAsyncThunk<
+  AuthPayload,
+  { email: string; password: string },
+  { rejectValue: string }
+>("auth/loginWithCredentials", async ({ email, password }, ThunkAPI) => {
+  const { data, error } = await supabase.auth.signInWithPassword({
+    email: email,
+    password: password,
+  });
+
+  if (error) {
+    return ThunkAPI.rejectWithValue(
+      error.message || "There was a problem with login",
+    );
+  }
+
+  return { user: data.user, session: data.session };
+});
+
+export const signupWithCredentials = createAsyncThunk<
+  AuthPayload,
+  { username: string; password: string; email: string },
+  { rejectValue: string }
+>(
+  "auth/signupWithCredentials",
+  async ({ username, password, email }, thunkAPI) => {
+    try {
+      // Optional: Add client-side validation
+      if (username.length < 3) {
+        return thunkAPI.rejectWithValue(
+          "Username must be at least 3 characters",
+        );
+      }
+
+      if (password.length < 6) {
+        return thunkAPI.rejectWithValue(
+          "Password must be at least 6 characters",
+        );
+      }
+
+      const { data, error } = await supabase.auth.signUp({
+        email,
+        password,
+        options: {
+          data: { username },
+          emailRedirectTo: `${window.location.origin}/auth/callback`,
+        },
+      });
+
+      if (error) {
+        return thunkAPI.rejectWithValue(
+          error.message || "There was a problem with registration",
+        );
+      }
+
+      // Success - user might need email confirmation
+      return {
+        user: data.user,
+        session: data.session,
+      };
+    } catch (err: any) {
+      // Catch any unexpected errors
+      return thunkAPI.rejectWithValue(
+        err.message || "An unexpected error occurred during registration",
+      );
+    }
+  },
+);
 
 const authSlice = createSlice({
   name: "auth",
   initialState,
   reducers: {
-    login: (
-      state,
-      action: PayloadAction<{
-        userName: string;
-        session: Session;
-        role: string | undefined;
-      }>,
-    ) => {
-      state.isUserAuthenticated = true;
-      state.username = action.payload.userName;
-      state.session = action.payload.session;
-      state.role = action.payload.role;
-    },
+    // Sync logout for immediate UI update
     logout: (state) => {
       state.isUserAuthenticated = false;
-      state.username = null;
+      state.user = null;
       state.session = null;
+      state.isLoading = false;
+      state.error = null;
+    },
+    // Clear errors
+    clearError: (state) => {
+      state.error = null;
     },
   },
+  extraReducers: () => {},
 });
 
-export const { login, logout } = authSlice.actions;
-
-export const selectIsUserAuthenticated = (state: { auth: AuthState }) =>
-  state.auth.isUserAuthenticated;
-
-export const selectUserName = (state: { auth: AuthState }) =>
-  state.auth.username;
-
+export const { logout, clearError } = authSlice.actions;
 export default authSlice.reducer;

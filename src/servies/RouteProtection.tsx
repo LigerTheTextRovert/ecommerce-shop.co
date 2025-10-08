@@ -5,11 +5,18 @@ import { Navigate } from "react-router-dom";
 interface RouteProtectionProps {
   children: React.ReactNode;
 }
+
 export const RouteProtection = ({ children }: RouteProtectionProps) => {
   const { isUserAuthenticated } = useSelector((state: RootState) => state.auth);
-  if (isUserAuthenticated) {
-    return <>{children}</>;
-  } else {
-    return <Navigate to="/login" replace />;
+
+  if (isUserAuthenticated === null) {
+    // Supabase still checking
+    return <div>Loading...</div>;
   }
+
+  return isUserAuthenticated ? (
+    <>{children}</>
+  ) : (
+    <Navigate to="/login" replace />
+  );
 };
